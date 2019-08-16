@@ -19,6 +19,6 @@ categories:
   </p>
   
   <div>
-    Would like to learn moreÂ aboutÂ application, server and desktop virtualization; change management, monitoring and another System Center family products? Register to <a href="http://www.wbi.cz/registrace">WBI Systems</a> seminars presenting by me ðŸ™‚ It&#8217;s for FREE. There&#8217;s Sharepoint seminar, as well, presenting by Kamil Jurik!!
+    Would like to learn more about application, server and desktop virtualization; change management, monitoring and another System Center family products? Register to <a href="http://www.wbi.cz/registrace">WBI Systems</a> seminars presenting by me ðŸ™‚ It&#8217;s for FREE. There&#8217;s Sharepoint seminar, as well, presenting by Kamil Jurik!!
   </div>
 </div>

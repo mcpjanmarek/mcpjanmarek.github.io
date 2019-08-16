@@ -34,11 +34,11 @@ Možná jste si již na Microsoft Learning webu všimli nových certifikací Mic
 
 Co se týče cesty k certifikaci na Private Cloud &#8211; je jednoduchá. Předpokladem je získání MCSA (Solution Associate) na Windows Server 2008 Core. Pokud jste držitelem MCITP:Server Administrator nebo Enterprise Administrator, tak automaticky získáváte MCSA. Na Private Cloud existuje ovšem pouze vyšší úroveň &#8211; MCSE: Private Cloud. K MCSA je tedy zapotřebí složit ještě 2 zkoušky: 70-246 a 70-247. Certifikace 70-247 je do června 2013 nahraditelná certifikací 70-659.
 
-Samostatné certifikace na System Center 2012 určitě budou. Aktuálně je k dispozici pouze jedna &#8211; 70-243:� Administering and Deploying System Center 2012 Configuration Manager.
+Samostatné certifikace na System Center 2012 určitě budou. Aktuálně je k dispozici pouze jedna &#8211; 70-243: Administering and Deploying System Center 2012 Configuration Manager.
 
 Co se týče školení, je ve vývoji mnoho kurzů. Dovolím si vypíchnout 4 z nich:
 
   * MOC 10747: Administering System Center 2012 Configuration Manager
-  * MOC 10748: Deploying� System Center 2012 Configuration Manager
-  * MOC 10750:� Monitoring and Operating a Private Cloud with System Center 2012
-  * MOC 10751:� Configuring and Deploying a Private Cloud with System Center 2012
+  * MOC 10748: Deploying System Center 2012 Configuration Manager
+  * MOC 10750: Monitoring and Operating a Private Cloud with System Center 2012
+  * MOC 10751: Configuring and Deploying a Private Cloud with System Center 2012

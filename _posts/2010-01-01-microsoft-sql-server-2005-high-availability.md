@@ -103,19 +103,19 @@ categories:
   </p>
   
   <p>
-    Â Â &#8211; high availability (vyuziva 3. server, tzv. Witness (svedek), ktery kontroluje stav mirroringu a pripadne zbudi standby server)
+    &#8211; high availability (vyuziva 3. server, tzv. Witness (svedek), ktery kontroluje stav mirroringu a pripadne zbudi standby server)
   </p>
   
   <p>
-    Â Â Â Â Â => automaticky failover
+    => automaticky failover
   </p>
   
   <p>
-    Â Â &#8211; high protection
+    &#8211; high protection
   </p>
   
   <p>
-    Â Â &#8211; high performance
+    &#8211; high performance
   </p>
   
   <p>
@@ -131,7 +131,7 @@ categories:
   </p>
   
   <p>
-    &#8211; vyhodou je to, ze pokud aplikace pouziva SQLAgenta nebo .NET2.0 (a vyssi), tak se aplikace automaticky prepoji na funkcni SQL serverÂ v mirroru
+    &#8211; vyhodou je to, ze pokud aplikace pouziva SQLAgenta nebo .NET2.0 (a vyssi), tak se aplikace automaticky prepoji na funkcni SQL serverv mirroru
   </p>
   
   <p>

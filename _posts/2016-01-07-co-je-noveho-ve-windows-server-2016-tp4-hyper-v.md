@@ -11,14 +11,14 @@ categories:
   - Nezařazené
   - Windows Server 2016
 ---
-Už v listopadu 2015 byl uvolněn Technical Preview 4 pro Windows Server 2016. Další zlomový okamžik pro všechny, co se těší na příští� verzi Windows Serveru. Co je v TP4 nového kolem Hyper-V?
+Už v listopadu 2015 byl uvolněn Technical Preview 4 pro Windows Server 2016. Další zlomový okamžik pro všechny, co se těší na příští verzi Windows Serveru. Co je v TP4 nového kolem Hyper-V?
 
   1. Nano Server 
       * Vylepšení oproti TP3
       * Podpora kontejnerů
       * Podpora nested virtualizace (Hyper-V v Hyper-V)
       * Pro ty, co neví co to je &#8211; ultra ořezaný OS, který nemá žádné GUI (ani příkazovku) a tak jeho režie je cca 120 MB paměti a 450 MB dat na disku.
-      * Pro ty, co se toho bojí ještě víc než se teď bojí Core Edice, mám skvělou zprávu &#8211; bude to preferovaný typ OS pro Hyper-V hostitele. Takže co teď? Hybaj� se naučit PowerShell!
+      * Pro ty, co se toho bojí ještě víc než se teď bojí Core Edice, mám skvělou zprávu &#8211; bude to preferovaný typ OS pro Hyper-V hostitele. Takže co teď? Hybaj se naučit PowerShell!
   2. Podpora režimu Connected Standby 
       * Surface 4 a podobné devices používají nový AOAC režim. Hyper-V tak nemá problém běžet ani na nich.
   3. Discrete Device Assignment 
@@ -53,7 +53,7 @@ Už v listopadu 2015 byl uvolněn Technical Preview 4 pro Windows Server 2016. D
  14. Formát konfig souboru VM 
       * Ještě když Hyper-V nebylo úplně Hyper-V a celé to bylo moc podobné VirtualPC, které MS koupil s celým Connectixem, tak byla celá konfigurace VM v souboru VMC. Pak se ale řeklo, že to je blbost, že přeci vše má MS v XML, tak i VM musí mít XML. Teď se ale přišlo na to, že se v tom XML admini vrtaj a že je to vlastně celé k ničemu a že bude lepší udělat zbrusu nový převratní binární formát konfig souboru, který bude mít koncovku (světě div se) VMCX. Taky se mění VSV a BIN stavové soubory na VMRS (RS = Runtime State).
  15. PowerShell Direct 
-      * Pro admina nejlepší funkce ze všech. Vezmete cmdlet Invoke-Command třeba a pustíte ho z hostitele s parametrem VMName. Tím zavoláte daný ScriptBlock přímo ve VM. A v ní NEmusíte mít povolený PowerShell Remoting!!! Cool, co? A víte, na co je to také� řešení? Na ten zpropadený Nano Server, který nejde nijak moc nastavovat.
+      * Pro admina nejlepší funkce ze všech. Vezmete cmdlet Invoke-Command třeba a pustíte ho z hostitele s parametrem VMName. Tím zavoláte daný ScriptBlock přímo ve VM. A v ní NEmusíte mít povolený PowerShell Remoting!!! Cool, co? A víte, na co je to také řešení? Na ten zpropadený Nano Server, který nejde nijak moc nastavovat.
 
 Průbežně sem přihazuji další features, tak si klidně post někam uložte a mrkněte za měsíc nebo tak znovu.
 

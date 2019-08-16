@@ -39,19 +39,19 @@ categories:
   </p>
   
   <p>
-    Â Â &#8211; publisher &#8211; jeho db se zucastnuje replikace (~ sdili db)
+    &#8211; publisher &#8211; jeho db se zucastnuje replikace (~ sdili db)
   </p>
   
   <p>
-    Â Â &#8211; distributor &#8211; kopiruje sdilene db na subsriber, muze byt interni (je na stejnem srv jako publisher) nebo externi (na samostatnem serveru)
+    &#8211; distributor &#8211; kopiruje sdilene db na subsriber, muze byt interni (je na stejnem srv jako publisher) nebo externi (na samostatnem serveru)
   </p>
   
   <p>
-    Â Â &#8211; subscriber &#8211; cil pro db
+    &#8211; subscriber &#8211; cil pro db
   </p>
   
   <p>
-    Â &#8211; muze byt obousmerne tzn. publisher je i subscriber a opacne
+    &#8211; muze byt obousmerne tzn. publisher je i subscriber a opacne
   </p>
   
   <p>
@@ -59,35 +59,35 @@ categories:
   </p>
   
   <p>
-    Â Â &#8211; snapshot &#8211; pri zmene jedne radky v tabulce se replikuje cela tabulka (dobre je to na to, ze se da prenest cela db)
+    &#8211; snapshot &#8211; pri zmene jedne radky v tabulce se replikuje cela tabulka (dobre je to na to, ze se da prenest cela db)
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; snapshot agent &#8211; bezi na publisher srvru
+    &#8211; snapshot agent &#8211; bezi na publisher srvru
   </p>
   
   <p>
-    Â Â &#8211; tranactionalÂ &#8211; replikuji se i male zmeny (i jen radky), vyuziva t-log
+    &#8211; tranactional&#8211; replikuji se i male zmeny (i jen radky), vyuziva t-log
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; log reader agent
+    &#8211; log reader agent
   </p>
   
   <p>
-    Â Â &#8211; merge &#8211; oboustranna
+    &#8211; merge &#8211; oboustranna
   </p>
   
   <p>
-    Â Â Â Â Â Â Â Â Â Â Â Â Â Â &#8211; problem je ze pokud vznikne na obou srv stejne radky, tak dojde ke konfliktu (kvuli tomu vznika dat. typ GUID / pokud to ale nechci tak vyrobim sloupec ID serveru &#8211; aplikace pak musi resit rozeznani serveru, nebo to udelam na sql serveru pomoci triggeru)
+    &#8211; problem je ze pokud vznikne na obou srv stejne radky, tak dojde ke konfliktu (kvuli tomu vznika dat. typ GUID / pokud to ale nechci tak vyrobim sloupec ID serveru &#8211; aplikace pak musi resit rozeznani serveru, nebo to udelam na sql serveru pomoci triggeru)
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; merge agent
+    &#8211; merge agent
   </p>
   
   <p>
-    Â Â &#8211; heterogeneous &#8211; replikace mezi sql serverem a jinym typem db serveru
+    &#8211; heterogeneous &#8211; replikace mezi sql serverem a jinym typem db serveru
   </p>
   
   <p>
@@ -99,7 +99,7 @@ categories:
   </p>
   
   <p>
-    Â Â &#8211; distributor
+    &#8211; distributor
   </p>
   
   <p>
@@ -119,54 +119,54 @@ categories:
   </p>
   
   <p>
-    Â Â &#8211; replications &#8211; configure distribution&#8230; (timto se vytvori sys db distribution (sp_adddistributiondb))
+    &#8211; replications &#8211; configure distribution&#8230; (timto se vytvori sys db distribution (sp_adddistributiondb))
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; slozku pro snapshot (vytovri se pres bulkcopy) dat na specialni disk, protoze pri jeho vzniku nastane mnoho I/O operaci
+    &#8211; slozku pro snapshot (vytovri se pres bulkcopy) dat na specialni disk, protoze pri jeho vzniku nastane mnoho I/O operaci
   </p>
   
   <p>
-    Â Â &#8211; local publications &#8211; new publications&#8230;
+    &#8211; local publications &#8211; new publications&#8230;
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; mohu pouzit filter (~ SELECT s WHERE) &#8211; vyberu jen napr. urcite radky ze sloupce
+    &#8211; mohu pouzit filter (~ SELECT s WHERE) &#8211; vyberu jen napr. urcite radky ze sloupce
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; snapshot &#8211; je tam proto, abych mohl prenest ty puvodni data, ale mohu nastavit i schedule
+    &#8211; snapshot &#8211; je tam proto, abych mohl prenest ty puvodni data, ale mohu nastavit i schedule
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; nastavuji ucty pro agenty &#8211; musi mit prava read k replikovanym datum / mohu to nastavit i na ucet SQL Agenta (jako bylo nativne v SQL 2000)
+    &#8211; nastavuji ucty pro agenty &#8211; musi mit prava read k replikovanym datum / mohu to nastavit i na ucet SQL Agenta (jako bylo nativne v SQL 2000)
   </p>
   
   <p>
-    Â Â &#8211; local subscriptions &#8211; new subscription &#8230;
+    &#8211; local subscriptions &#8211; new subscription &#8230;
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; nastvauji push (vyssi zatizeni distributora) nebo pull (~kontinualni replikace => vyskoa latence)
+    &#8211; nastvauji push (vyssi zatizeni distributora) nebo pull (~kontinualni replikace => vyskoa latence)
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; nadefinuji opet ucty
+    &#8211; nadefinuji opet ucty
   </p>
   
   <p>
-    Â Â Â Â Â &#8211; typ synchronizace
+    &#8211; typ synchronizace
   </p>
   
   <p>
-    Â Â Â Â Â Â Â Â &#8211; kontinualni
+    &#8211; kontinualni
   </p>
   
   <p>
-    Â Â Â Â Â Â Â Â &#8211; manualni
+    &#8211; manualni
   </p>
   
   <p>
-    Â Â Â Â &#8211; nemohu udelat subscriber na publikaci, ktera uz je prenasena
+    &#8211; nemohu udelat subscriber na publikaci, ktera uz je prenasena
   </p>
 </div>

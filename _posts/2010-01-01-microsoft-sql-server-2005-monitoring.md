@@ -311,7 +311,7 @@ categories:
                                                           </p>
                                                           
                                                           <p>
-                                                            <em></em>Â
+                                                            <em></em>
                                                           </p>
                                                           
                                                           <p>

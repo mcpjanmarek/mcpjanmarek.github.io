@@ -19,7 +19,7 @@ categories:
   </div>
   
   <div>
-    Â
+    
   </div>
   
   <div>

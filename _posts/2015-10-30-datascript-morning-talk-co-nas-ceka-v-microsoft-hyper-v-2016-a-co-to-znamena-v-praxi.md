@@ -16,12 +16,12 @@ tags:
 ---
 <a href="http://www.datascript.cz/morning-talks/co-nas-ceka-v-microsoft-hyper-v-2016-a-co-to-znamena-v-praxi/" target="_blank"><img class="alignleft size-full wp-image-1038" src="http://janmarek.eu/wp-content/uploads/2015/10/datascript-morning-talks.png" alt="datascript-morning-talks" width="119" height="212" /></a>**Datum:** 10.11.2015 9:00 &#8211; 11:30
 
-**Místo konání:�** [Akademické konferenční centrum](http://www.akc-avcr.cz/) (Husova 4a, 110 00� Praha 1) &#8211; vchod z Jilské ulice přes recepci Filozofického a Sociologického ústavu AV ČR
+**Místo konání:** [Akademické konferenční centrum](http://www.akc-avcr.cz/) (Husova 4a, 110 00 Praha 1) &#8211; vchod z Jilské ulice přes recepci Filozofického a Sociologického ústavu AV ČR
 
 Jak se na snídani dopravit?
 
-  * Metrem &#8211; Váš cíl� je na půl cesty mezi stanicemi� Národní (B) a Staroměstská (A)
-  * Autem &#8211; nejbližší parkování u� Národního divadla. Jediný nájezd je Divadelní ulicí, počet parkovacích míst je 216
+  * Metrem &#8211; Váš cíl je na půl cesty mezi stanicemi Národní (B) a Staroměstská (A)
+  * Autem &#8211; nejbližší parkování u Národního divadla. Jediný nájezd je Divadelní ulicí, počet parkovacích míst je 216
 
 **Prezentující:** Jan Marek
 

@@ -10,7 +10,7 @@ categories:
   - Nezařazené
   - SC Configuration Manager
 ---
-Změnit site code po instalaci nelze, ale upravit site name ano. Přes konzoli to neuděláte ovšem. Musíte sáhnout do WMI. Nejlépe to jde přes PowerShell (jak jinak ;)). Stačí tedy vzít následujících � pár řádek kódu:
+Změnit site code po instalaci nelze, ale upravit site name ano. Přes konzoli to neuděláte ovšem. Musíte sáhnout do WMI. Nejlépe to jde přes PowerShell (jak jinak ;)). Stačí tedy vzít následujících pár řádek kódu:
 
 <pre>$NovyNazevSite = 'Tohle bude novy nazev SCCM site'
 $SiteKod = 'ABC'

@@ -12,7 +12,7 @@ categories:
   - Nezařazené
   - Windows Server 2012
 ---
-Ano, je to tak. Včera Microsoft oznámil RTM nového Windows Serveru 2012. Datum skutečné dostupnosti je 4.září 2012. Viz. web� <http://www.microsoft.com/en-us/server-cloud/new.aspx>
+Ano, je to tak. Včera Microsoft oznámil RTM nového Windows Serveru 2012. Datum skutečné dostupnosti je 4.září 2012. Viz. web <http://www.microsoft.com/en-us/server-cloud/new.aspx>
 
 Krom samotných funkcí a novinek vypíchnu změnu licencování. Nově budou existovat pouze 2 edice:
 
@@ -23,4 +23,4 @@ Co se týče funkcí, tak obě licence jsou technologicky naprosto stejné! Tedy
 
 Stále bude dostupný výkonný Microsoft hypervisor zdarma &#8211; Microsoft Hyper-V Server 2012.
 
-**!Update!**� http://janmarek.eu/windows-8-a-windows-server-2012-jiz-dostupny/
+**!Update!** http://janmarek.eu/windows-8-a-windows-server-2012-jiz-dostupny/

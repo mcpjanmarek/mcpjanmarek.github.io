@@ -25,7 +25,7 @@ categories:
 
 1. zkouška číslo 70-659 (dříve 70-652): MCTS: Windows Server 2008 R2, Server Virtualization [zkouška obsahuje otázky nejen z oblasti &#8222;čisté&#8220; virtualizace, ale i Remote Desktop Services, zálohování či vysoké dostupnosti]. Více informací <a href="http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-659" target="_blank">zde</a>.
 
-2. zkouška číslo 70-669: MCTS: Windows Server 2008 R2,� Desktop Virtualization [zkouška obsahuje otázky k technologiím App-V, MED-V, VDI a Remote Desktop Services]. Více informací <a href="http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-669" target="_blank">zde</a>.
+2. zkouška číslo 70-669: MCTS: Windows Server 2008 R2, Desktop Virtualization [zkouška obsahuje otázky k technologiím App-V, MED-V, VDI a Remote Desktop Services]. Více informací <a href="http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-669" target="_blank">zde</a>.
 
 3. zkouška číslo 70-693: MCITP: Windows Server 2008 R2, Virtualization Administrator. Ke složení této zkoušky musíte nejdříve úspěšně dokončit předchozí dvě. Samotná zkouška se skládá z otázek z oblastí návrhu a konfigurace virtuální infrastruktury. Více informací <a href="http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-693" target="_blank">zde</a>.
 

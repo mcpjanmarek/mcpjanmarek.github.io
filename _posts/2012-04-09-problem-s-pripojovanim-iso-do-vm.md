@@ -16,4 +16,4 @@ categories:
   - Nezařazené
   - SC Virtual Machine Manager
 ---
-Bohužel problém, který se vyskytl v betě a následně i v RC verzi SC 2012 Virtual Machine Manageru nadále trvá i v� RTM. Bug, který jsem zadal na connect byl sice bez odpovědi, ale na současném oficiálním microsoft foru jsem dostal odpověď od MS, že mám špatně nakonfigurovaný library server� a management server. Očividně je ale problém opravdu na straně produktu a oficiálně to dokládá i� KB <http://support.microsoft.com/default.aspx?scid=kb;EN-US;2690619>
+Bohužel problém, který se vyskytl v betě a následně i v RC verzi SC 2012 Virtual Machine Manageru nadále trvá i v RTM. Bug, který jsem zadal na connect byl sice bez odpovědi, ale na současném oficiálním microsoft foru jsem dostal odpověď od MS, že mám špatně nakonfigurovaný library server a management server. Očividně je ale problém opravdu na straně produktu a oficiálně to dokládá i KB <http://support.microsoft.com/default.aspx?scid=kb;EN-US;2690619>

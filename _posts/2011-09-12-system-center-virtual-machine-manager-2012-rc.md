@@ -18,7 +18,7 @@ tags:
   - System Center Virtual Machine Manager
   - Virtual Machine Manager
 ---
-Přichází další krok ve vývoji nové verze System Center nástroje pro správu virtuální infrastruktury. V pátek Microsoft ohlásil uveřejnění Release Candidate verze, která přináší další a další vylepšení. Zde kompletní info, které naleznete i na samotné stránce se stažením verze RC <http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=27252>� :
+Přichází další krok ve vývoji nové verze System Center nástroje pro správu virtuální infrastruktury. V pátek Microsoft ohlásil uveřejnění Release Candidate verze, která přináší další a další vylepšení. Zde kompletní info, které naleznete i na samotné stránce se stažením verze RC <http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=27252> :
 
   * **Fabric Management** 
       * Setup Upgrade 

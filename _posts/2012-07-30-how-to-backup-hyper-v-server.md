@@ -26,4 +26,4 @@ Následně je důležité povolit vzdálenou správu a zálohování pomocí př
 
 > _netsh advfirewall set rule group=”Windows Backup” NEW enable=YES_
 
-V tuto chvíli je možné se vzdáleně připojit konzolí Windows Server Backup � na Hyper-V server a konfigurovat zálohování. Samozřejmě se jedná o zálohováni &#8222;zaživa&#8220; za běhu virtuálních strojů.
+V tuto chvíli je možné se vzdáleně připojit konzolí Windows Server Backup  na Hyper-V server a konfigurovat zálohování. Samozřejmě se jedná o zálohováni &#8222;zaživa&#8220; za běhu virtuálních strojů.

@@ -18,7 +18,7 @@ Vzhledem k tomu, že jsem člověk vrhající se do mnoha věcí pohlavě a tak�
 > 
 > list disk
 > 
-> select disk� _číslo\_disku\_z\_předchozího\_příkazu\_které\_reprezentuje\_USB\_flash_disk_
+> select disk _číslo\_disku\_z\_předchozího\_příkazu\_které\_reprezentuje\_USB\_flash_disk_
 > 
 > clean
 > 
@@ -38,7 +38,7 @@ Nyní je již možné restartovat stanici a provést instalaci.
 
 Po instalaci jsem ale narazil na menší problém s aktivací OS. Aktivace se nedařila a error hlásal něco ve znění, že nemůže nalézt KMS server. Ano, já ještě KMS server nemám, protože jednak sedím zrovna na hotelu a jednak protože ještě není k dispozici Windows Server 2012. Chtěl jsem tedy provést změnu licenčního čísla na MAK. Bohužel z Control panelu tlačítko na změnu zmizelo. Nevadí, použiji tedy příkazovou řádku a nástroj SLMGR a zadám MAK klíč:
 
-> slmgr.exe -ipk� _licenční_číslo_
+> slmgr.exe -ipk _licenční_číslo_
 
 V tuto chvíli lze již spustit aktivaci nebo opět použít příkazovou řádku:
 

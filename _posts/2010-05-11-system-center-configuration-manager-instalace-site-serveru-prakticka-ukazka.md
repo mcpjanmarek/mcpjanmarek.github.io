@@ -35,63 +35,63 @@ categories:
   </p>
   
   <p>
-    &#8211;� � � � BR1
+    &#8211; BR1
   </p>
   
   <p>
-    o� � � � Vytvořit jednotlivé Address pro podřízené BR2 a PRG a konfigurovat tok dat<a href="http://janmarek.eu/wp-content/uploads/2010/10/15b85d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;margin-left:0;border-top:0;margin-right:0;border-right:0;" title="1" border="0" alt="1" align="right" src="http://janmarek.eu/wp-content/uploads/2010/10/15b85d.png?w=211" width="314" height="445" /></a>
+    o Vytvořit jednotlivé Address pro podřízené BR2 a PRG a konfigurovat tok dat<a href="http://janmarek.eu/wp-content/uploads/2010/10/15b85d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;margin-left:0;border-top:0;margin-right:0;border-right:0;" title="1" border="0" alt="1" align="right" src="http://janmarek.eu/wp-content/uploads/2010/10/15b85d.png?w=211" width="314" height="445" /></a>
   </p>
   
   <p>
-    o� � � � Konfigurovat Boundary dle AD site pro hlavní lokalitu
+    o Konfigurovat Boundary dle AD site pro hlavní lokalitu
   </p>
   
   <p>
-    o� � � � Client Agents – intervaly inventarizace a aktualizace politik na klientech
+    o Client Agents – intervaly inventarizace a aktualizace politik na klientech
   </p>
   
   <p>
-    o� � � � Client Installation – Client Pust instalallation – doporučuji použít parametry viz. <a href="http://technet.microsoft.com/en-us/library/bb680980.aspx">http://technet.microsoft.com/en-us/library/bb680980.aspx</a>
+    o Client Installation – Client Pust instalallation – doporučuji použít parametry viz. <a href="http://technet.microsoft.com/en-us/library/bb680980.aspx">http://technet.microsoft.com/en-us/library/bb680980.aspx</a>
   </p>
   
   <p>
-    o� � � � Component Configuration – Software Distribution – nastavit úložiště balíčků na distrubčním bodu (8.HDD)
+    o Component Configuration – Software Distribution – nastavit úložiště balíčků na distrubčním bodu (8.HDD)
   </p>
   
   <p>
-    o� � � � Discovery Methods – použít Active Directory System Discovery
+    oDiscovery Methods – použít Active Directory System Discovery
   </p>
   
   <p>
-    o� � � � Na roli DP povolit streaming virtuálních aplikací
+    o Na roli DP povolit streaming virtuálních aplikací
   </p>
   
   <p>
-    &#8211;� � � � BR2 a PRG
+    &#8211; BR2 a PRG
   </p>
   
   <p>
-    o� � � � Konfigurovat Boundary dle AD site pro BR2 a PRG
+    o Konfigurovat Boundary dle AD site pro BR2 a PRG
   </p>
   
   <p>
-    o� � � � Client Installation – Client Pust instalallation (viz. výše)
+    o Client Installation – Client Pust instalallation (viz. výše)
   </p>
   
   <p>
-    o� � � � Discovery Methods – použít Active Directory System Discovery na konkrétní OU
+    o Discovery Methods – použít Active Directory System Discovery na konkrétní OU
   </p>
   
   <p>
-    o� � � � Na roli DP povolit streaming virtuálních aplikací
+    o Na roli DP povolit streaming virtuálních aplikací
   </p>
   
   <p>
-    �
+    
   </p>
   
   <p align="justify">
-    <a href="http://janmarek.eu/wp-content/uploads/2010/10/25b45d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 20px 0 0;" title="2" border="0" alt="2" align="left" src="http://janmarek.eu/wp-content/uploads/2010/10/25b45d.png?w=257" width="315" height="350" /></a> Jak jste si určitě� všimli, pro distribuci samotných klientů ConfigMgr jsem použil metodu Client Push Installation (s discovery pomocí AD System Discovery). Samozřejmě, že je možné např. využít i Software Distribution deployment v Group Policy. Pro instalaci se použije ccmsetup.msi, který najdete v instalačním adresáři ConfigMgr na site serveru v podadresáři bini386. Dále je zásadní použít ADM template ConfigMgr2007Installation.adm pro nastavení instalačních parametrů, který naleznete na instalačním médiu ConfigMgr v adresáři ToolsConfigMgrAdmTemplates. A abychom vyhověli našemu scénáři, je nutne v parametrech použít minimálně /mp: a v něm nastavit pro příslušnou politiku příslušný management point odkud stahovat zdrojové soubory.
+    <a href="http://janmarek.eu/wp-content/uploads/2010/10/25b45d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 20px 0 0;" title="2" border="0" alt="2" align="left" src="http://janmarek.eu/wp-content/uploads/2010/10/25b45d.png?w=257" width="315" height="350" /></a> Jak jste si určitě všimli, pro distribuci samotných klientů ConfigMgr jsem použil metodu Client Push Installation (s discovery pomocí AD System Discovery). Samozřejmě, že je možné např. využít i Software Distribution deployment v Group Policy. Pro instalaci se použije ccmsetup.msi, který najdete v instalačním adresáři ConfigMgr na site serveru v podadresáři bini386. Dále je zásadní použít ADM template ConfigMgr2007Installation.adm pro nastavení instalačních parametrů, který naleznete na instalačním médiu ConfigMgr v adresáři ToolsConfigMgrAdmTemplates. A abychom vyhověli našemu scénáři, je nutne v parametrech použít minimálně /mp: a v něm nastavit pro příslušnou politiku příslušný management point odkud stahovat zdrojové soubory.
   </p>
   
   <p>

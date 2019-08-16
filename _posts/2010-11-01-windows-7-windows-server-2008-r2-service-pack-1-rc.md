@@ -18,4 +18,4 @@ categories:
   - Windows 7
   - Windows Server
 ---
-Windows 7 and Windows Server 2008 R2 Service Pack 1 Release Candidate Is Now Available!!! Go to download here: <http://technet.microsoft.com/en-us/evalcenter/ff183870.aspx>Â If you have previously installed the Windows 7 and Windows Server 2008 R2 SP1 Beta on your machine, you must uninstall the beta before installing the Release Candidate.
+Windows 7 and Windows Server 2008 R2 Service Pack 1 Release Candidate Is Now Available!!! Go to download here: <http://technet.microsoft.com/en-us/evalcenter/ff183870.aspx> If you have previously installed the Windows 7 and Windows Server 2008 R2 SP1 Beta on your machine, you must uninstall the beta before installing the Release Candidate.

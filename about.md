@@ -28,13 +28,17 @@ Certified EC-Council Instructor (CEI)
 
 EC-Council Computer Hacking Forensics Investigator (CHFI)
 
-eLearnSecurity Junior Penetration Tester (eJPT)
-
 Microsoft MVP: Cloud and Datacenter Management (Hyper-V) (od 2014)
 
 Microsoft Community Contributor
 
 Microsoft Certified Trainer (MCT) (od 2010)
+
+eLearnSecurity Junior Penetration Tester (eJPT)
+
+Microsoft Certified: Azure Solutions Architect Expert
+
+Microsoft Certified: Azure Security Engineer Associate
 
 Microsoft Certified Solutions Expert (Cloud Platform and Infrastructure)
 

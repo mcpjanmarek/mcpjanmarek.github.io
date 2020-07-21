@@ -4,7 +4,7 @@ author: Jan Marek
 layout: post
 permalink: /events/
 ---
-Kvůli koronaviru se mi dost konferenci ze začátku roku odsunulo na září, říjen a dále. Většina bude online, ale QuBit v tuto chvíli vypadá na osobní akci. Tak snad se to povede. Jestli si tedy najdete čas, tak se s vámi rád potkám na některé z následujících akcí.
+Kvůli koronaviru se mi dost konferencí ze začátku roku odsunulo na září, říjen a dále. Většina bude online, ale QuBit v tuto chvíli vypadá na osobní akci. Tak snad se to povede. Jestli si tedy najdete čas, tak se s vámi rád potkám na některé z následujících akcí.
 
    *  9.-10.9.2020 WUG Days 2020
    * 16.-17.9.2020 CyberCon Brno 2020

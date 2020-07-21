@@ -16,11 +16,9 @@ tags:
 
 Poměrně často to na kurzech řeším a proto zde publikuji pro referenci.
 
-<blockquote class="wp-block-quote">
-  <p>
-    robocopy &#8218;D:\zdroj&#8216; &#8218;E:\cíl&#8216; /R:1 /w:0 /e /purge /zb /xo /copy:DATSO /v /log+:$LogFile /tee
-  </p>
-</blockquote>
+{% highlight console %}
+	robocopy "D:\zdroj" "E:\cíl" /R:1 /w:0 /e /purge /zb /xo /copy:DATSO /v /log+:$LogFile /tee
+{% endhighlight %}
 
 /R – počet opakování, pokud se soubor nepovede zkopírovat
 
@@ -28,7 +26,7 @@ Poměrně často to na kurzech řeším a proto zde publikuji pro referenci.
 
 /e – kopíruje včetně podadresářů, i prázdných
 
-/xo &#8211; nepřenáší starší soubory v případě konfliktu (dobré, pokud se kopírují několikrát stejná data)
+/xo - nepřenáší starší soubory v případě konfliktu (dobré, pokud se kopírují několikrát stejná data)
 
 /copy: &#8211; definuje co všechno se se soubory přenáší
 
@@ -40,6 +38,6 @@ Poměrně často to na kurzech řeším a proto zde publikuji pro referenci.
 
 /v – verbose výstup včetně všech vynechaných a přeskočených souborů
 
-/log+ &#8211; výstup je zaznamenán do logu, který se při opakovaném spuštění nepřepisuje, ale doplňuje
+/log+ - výstup je zaznamenán do logu, který se při opakovaném spuštění nepřepisuje, ale doplňuje
 
 /tee – výstup je vypisován současně na konzoli i do logu

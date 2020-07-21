@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: #20a20e;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #20c20e;
+    color: $red;
   }
 }
 
@@ -117,11 +117,6 @@ img {
 
 .date {
   font-style: italic;
-  color: #20a20e;
-}
-
-.datesmall {
-  font-size: 10px;
   color: #20a20e;
 }
 
@@ -206,8 +201,8 @@ img {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
-  color: #20a20e;
+  margin: 5px 0 0 0;
+  color: $orange;
   font-size: 11px;
 
   @include mobile {

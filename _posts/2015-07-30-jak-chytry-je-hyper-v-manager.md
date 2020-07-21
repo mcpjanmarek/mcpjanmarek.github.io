@@ -12,4 +12,4 @@ categories:
 ---
 &#8230;pozná, že služba Hyper-V Virtual Machine Management je zakázaná.
 
-[<img class="alignleft wp-image-952 size-full" src="http://janmarek.eu/wp-content/uploads/2015/07/virtmgmt-start-disabled-service.png" alt="virtmgmt-start-disabled-service" width="939" height="538" />](http://janmarek.eu/wp-content/uploads/2015/07/virtmgmt-start-disabled-service.png)
+[<img class="alignleft wp-image-952 size-full" src="/wp-content/uploads/2015/07/virtmgmt-start-disabled-service.png" alt="virtmgmt-start-disabled-service" width="939" height="538" />](wp-content/uploads/2015/07/virtmgmt-start-disabled-service.png)

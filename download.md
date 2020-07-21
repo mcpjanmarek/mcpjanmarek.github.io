@@ -47,10 +47,7 @@ SAPIEN PowerShell Studio - [info](https://www.sapien.com/software/powershell_stu
 ### Hyper-V
 
 Zde si můžete stáhnout vmguest.iso pro určitou verzi Microsoft Hyper-V VMs:
-* [Microsoft Hyper-V 2008 R2 SP1](https://janmarek-my.sharepoint.com/:u:/g/personal/jan_janmarek_eu/EeQhDk0aXItEr_C6qZEMZSMB8liWiKvomf3tTZ0zv_blFQ?e=bJ6DIx) 
-* [Microsoft Hyper-V 2012 R2](https://janmarek-my.sharepoint.com/:u:/g/personal/jan_janmarek_eu/EZG7unDgjaZAuW1POtUpIKoBHHSjBR4RvwAgpb_yXlKiyg?e=NkU5Db)
-
-[Můj dVMQ-CPU kalkulátor](https://janmarek-my.sharepoint.com/:x:/g/personal/jan_janmarek_eu/EQUgJ5pDYeVMrmdGZtodWsABiGQe57JtsXlddp34cwmcMQ?e=rVB0LH)
+* [Microsoft Hyper-V 2012 R2](https://janmarek-my.sharepoint.com/:u:/g/personal/jan_cyber-rangers_com/EZ_qW5hu1yZFgSzi6iEOEyQBGta-9TOs4mCUJNXvxWklyQ?e=bMzzc4)
 
 Veeam Task Manager for Hyper-V - [stáhnout](https://hyperv.veeam.com/free-task-manager-hyper-v-performance-monitoring/)
 

@@ -16,7 +16,7 @@ tags:
   - Citrix
   - SCCM
 ---
-<span style="text-decoration: underline;"><a href="http://janmarek.eu/wp-content/uploads/2010/10/logo-sccm_torned.png"><img class="alignleft size-full wp-image-114" title="logo-sccm_torned.png" src="http://janmarek.eu/wp-content/uploads/2010/10/logo-sccm_torned.png" alt="SC ConfigMgr" width="230" height="72" /></a>Microsoft: <strong>The Citrix Connector for System Center Configuration Manager</strong></span>
+<span style="text-decoration: underline;"><a href="/wp-content/uploads/2010/10/logo-sccm_torned.png"><img class="alignleft size-full wp-image-114" title="logo-sccm_torned.png" src="/wp-content/uploads/2010/10/logo-sccm_torned.png" alt="SC ConfigMgr" width="230" height="72" /></a>Microsoft: <strong>The Citrix Connector for System Center Configuration Manager</strong></span>
 
 <div>
   <em>The System Center team is working in partnership with Citrix to integrate the management of XenApp with Configuration Manager. We’ve put together a </em><a href="http://download.microsoft.com/download/9/5/4/954F7927-1FE7-470E-BA9B-A1AFEE142849/Citrix Connector for System Center Configuration Manager.pdf"><em>white paper</em></a><em> that outlines how the new capabilities can be used to improve enterprise application management. The Citrix Connector for Configuration Manager will enable unified management of applications across the desktop and XenApp Server farm environment. The connector enhances Configuration Manager, enabling administrators to orchestrate the tasks required to deliver applications to XenApp Servers and publish XenApp hosted applications seamlessly and with minimal impact to the user. </em>

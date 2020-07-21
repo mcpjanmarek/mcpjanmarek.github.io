@@ -16,7 +16,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://janmarek.eu/wp-content/uploads/2010/10/image5b45d.png" rel="WLPP"><img style="display: inline; border: 0;" title="obrázek" src="http://janmarek.eu/wp-content/uploads/2010/10/image5b45d.png?w=300" alt="obrázek" width="365" height="359" align="left" border="0" /></a>
+    <a href="/wp-content/uploads/2010/10/image5b45d.png" rel="WLPP"><img style="display: inline; border: 0;" title="obrázek" src="/wp-content/uploads/2010/10/image5b45d.png?w=300" alt="obrázek" width="365" height="359" align="left" border="0" /></a>
   </p>
   
   <p>

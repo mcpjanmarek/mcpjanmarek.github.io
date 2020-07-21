@@ -15,7 +15,7 @@ categories:
 tags:
   - MCM
 ---
-[<img class="alignleft size-full wp-image-278" title="MCM" src="http://janmarek.eu/wp-content/uploads/2011/06/microsoft_certified_master.jpg" alt="" width="232" height="170" />](http://janmarek.eu/wp-content/uploads/2011/06/microsoft_certified_master.jpg)Po pomerne dlouhe dobe zkoumani certifikace Microsoft Certified Master, jejich pozadavku, prinosu a moznosti slozeni The Lab From Hell (R) 🙂 jsem se rozhodl zacit s pripravou ke slozeni odrudy Windows Server 2008 R2: Directory.
+[<img class="alignleft size-full wp-image-278" title="MCM" src="/wp-content/uploads/2011/06/microsoft_certified_master.jpg" alt="" width="232" height="170" />](/wp-content/uploads/2011/06/microsoft_certified_master.jpg)Po pomerne dlouhe dobe zkoumani certifikace Microsoft Certified Master, jejich pozadavku, prinosu a moznosti slozeni The Lab From Hell (R) 🙂 jsem se rozhodl zacit s pripravou ke slozeni odrudy Windows Server 2008 R2: Directory.
 
 Z financnich duvodu budu cekat na otevreni programu certifikacnich zkousek v Evrope. Verim, ze po otevreni na SQL a Exchange, dojde i na Active Directory 🙂
 

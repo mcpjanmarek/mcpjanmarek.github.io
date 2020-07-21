@@ -19,7 +19,7 @@ categories:
 <div class="mceTemp">
   <dl class="wp-caption alignleft">
     <dt class="wp-caption-dt">
-      <a href="http://janmarek.eu/wp-content/uploads/2012/01/icon_word_big.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;float:left;border-top:0;border-right:0;padding-top:0;margin:0 10px 0 0;" class="size-full wp-image-367" title="Microsoft Word 2010 Icon" border="0" alt="Microsoft Word 2010 Icon" align="left" src="http://janmarek.eu/wp-content/uploads/2012/01/icon_word_big.png" width="68" height="65" /></a>
+      <a href="/wp-content/uploads/2012/01/icon_word_big.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;float:left;border-top:0;border-right:0;padding-top:0;margin:0 10px 0 0;" class="size-full wp-image-367" title="Microsoft Word 2010 Icon" border="0" alt="Microsoft Word 2010 Icon" align="left" src="/wp-content/uploads/2012/01/icon_word_big.png" width="68" height="65" /></a>
     </dt>
   </dl>
 </div>

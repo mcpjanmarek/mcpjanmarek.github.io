@@ -13,7 +13,7 @@ categories:
   - WBI Systems
   - Windows Server 2012 R2
 ---
-[<img class="aligncenter size-full wp-image-660" alt="MSITProAcademy" src="http://janmarek.eu/wp-content/uploads/2013/10/MSITProAcademy.jpg" width="464" height="65" />](http://janmarek.eu/wp-content/uploads/2013/10/MSITProAcademy.jpg)
+[<img class="aligncenter size-full wp-image-660" alt="MSITProAcademy" src="/wp-content/uploads/2013/10/MSITProAcademy.jpg" width="464" height="65" />](/wp-content/uploads/2013/10/MSITProAcademy.jpg)
 
 Na této přednášce večerní IT Pro Academy se budeme zabývat vytvářením a konfigurací virtuálních počítáčů na platformě Microsoft Hyper-V 2012 R2.
 

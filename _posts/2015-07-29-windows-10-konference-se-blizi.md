@@ -14,5 +14,5 @@ categories:
   - Windows Azure
 ---
 <p style="text-align: left;">
-  <a href="https://portal.redtoo.cz/SitePages/conference/W10.aspx" target="_blank"><img class="aligncenter wp-image-943 size-full" src="http://janmarek.eu/wp-content/uploads/2015/07/win10-conf-banner.png" alt="win10-conf-banner" width="905" height="292" /></a>Přijďte na Windows 10 konferenci, kde si v atmosféře havajské party užijete technické přednášky z různých oblastí technologií, které nás čekají v příští verzi Windows! Více informací a registrace <a href="https://portal.redtoo.cz/SitePages/conference/W10.aspx" target="_blank">zde</a>.
+  <a href="https://portal.redtoo.cz/SitePages/conference/W10.aspx" target="_blank"><img class="aligncenter wp-image-943 size-full" src="/wp-content/uploads/2015/07/win10-conf-banner.png" alt="win10-conf-banner" width="905" height="292" /></a>Přijďte na Windows 10 konferenci, kde si v atmosféře havajské party užijete technické přednášky z různých oblastí technologií, které nás čekají v příští verzi Windows! Více informací a registrace <a href="https://portal.redtoo.cz/SitePages/conference/W10.aspx" target="_blank">zde</a>.
 </p>

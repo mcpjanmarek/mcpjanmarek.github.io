@@ -22,11 +22,11 @@ Možnost 2 a 3 má dost rozdílný vliv na výsledek 🙂
 
 Nejdřív tedy bod 2 aneb klasika copy/paste.
 
-[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="http://janmarek.eu/wp-content/uploads/2015/01/image_thumb.png" width="829" height="488" />](http://janmarek.eu/wp-content/uploads/2015/01/image.png) 
+[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="/wp-content/uploads/2015/01/image_thumb.png" width="829" height="488" />](/wp-content/uploads/2015/01/image.png) 
 
 A jak vypadá výsledek po vložení do nového runbooku?
 
-[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="http://janmarek.eu/wp-content/uploads/2015/01/image_thumb1.png" width="574" height="269" />](http://janmarek.eu/wp-content/uploads/2015/01/image1.png) 
+[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="/wp-content/uploads/2015/01/image_thumb1.png" width="574" height="269" />](/wp-content/uploads/2015/01/image1.png) 
 
 No tak to je dost peklo 🙁
 
@@ -34,20 +34,20 @@ Jak to tedy zkopírovat tak, aby byl ponechán layout? Použít volby z menu. Ta
 
 1. Označit zdrojový runbook. Celý runbook a ne klikat do jeho obsahu!
 
-&nbsp;[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="http://janmarek.eu/wp-content/uploads/2015/01/image_thumb2.png" width="324" height="126" />](http://janmarek.eu/wp-content/uploads/2015/01/image2.png) 
+&nbsp;[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="/wp-content/uploads/2015/01/image_thumb2.png" width="324" height="126" />](/wp-content/uploads/2015/01/image2.png) 
 
 2. V menu zvolit Edit – Select All
 
-[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="http://janmarek.eu/wp-content/uploads/2015/01/image_thumb3.png" width="351" height="170" />](http://janmarek.eu/wp-content/uploads/2015/01/image3.png) 
+[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="/wp-content/uploads/2015/01/image_thumb3.png" width="351" height="170" />](/wp-content/uploads/2015/01/image3.png) 
 
 3. V menu zvolit Edit – Copy
 
-[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="http://janmarek.eu/wp-content/uploads/2015/01/image_thumb4.png" width="339" height="170" />](http://janmarek.eu/wp-content/uploads/2015/01/image4.png) 
+[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="/wp-content/uploads/2015/01/image_thumb4.png" width="339" height="170" />](/wp-content/uploads/2015/01/image4.png) 
 
 4. Označit koncový runbook. Opět celý runbook a ne klikat do jeho obsahu! 
 
 5. V menu zvolit Edit – Paste
 
-[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="http://janmarek.eu/wp-content/uploads/2015/01/image_thumb5.png" width="226" height="173" />](http://janmarek.eu/wp-content/uploads/2015/01/image5.png) 
+[<img title="image" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="image" src="/wp-content/uploads/2015/01/image_thumb5.png" width="226" height="173" />](/wp-content/uploads/2015/01/image5.png) 
 
 Tenhle postup funguje dle očekávání. A to se vyplatí :)))

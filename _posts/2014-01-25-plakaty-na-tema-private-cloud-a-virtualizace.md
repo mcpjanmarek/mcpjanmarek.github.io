@@ -20,5 +20,5 @@ Super postery jsou ke stažení na Microsoft downloadu. Najdete diagramy a krát
 <a href="http://www.microsoft.com/en-us/download/details.aspx?id=41665" target="_blank">http://www.microsoft.com/en-us/download/details.aspx?id=41665</a>
 
 <p style="text-align: center;">
-  <a href="http://www.microsoft.com/en-us/download/confirmation.aspx?id=41665" target="_blank"><img class="aligncenter  wp-image-732" alt="whd-csv-mini-poster-demo" src="http://janmarek.eu/wp-content/uploads/2014/01/whd-csv-mini-poster-demo.png" width="472" height="307" /></a>
+  <a href="http://www.microsoft.com/en-us/download/confirmation.aspx?id=41665" target="_blank"><img class="aligncenter  wp-image-732" alt="whd-csv-mini-poster-demo" src="/wp-content/uploads/2014/01/whd-csv-mini-poster-demo.png" width="472" height="307" /></a>
 </p>

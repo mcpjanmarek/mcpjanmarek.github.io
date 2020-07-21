@@ -15,7 +15,7 @@ categories:
 ---
 <div id="msgcns!6E7B9216726D07B8!323" class="bvMsg">
   <p>
-    <u><a href="http://janmarek.eu/wp-content/uploads/2010/10/sqlserver20055b45d1541290c.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 15px 0 0;" title="sqlserver2005" border="0" alt="sqlserver2005" align="left" src="http://janmarek.eu/wp-content/uploads/2010/10/sqlserver20055b45d1541290c.png?w=290" width="240" height="66" /></a> Server Failover Clustering</u>
+    <u><a href="/wp-content/uploads/2010/10/sqlserver20055b45d1541290c.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 15px 0 0;" title="sqlserver2005" border="0" alt="sqlserver2005" align="left" src="/wp-content/uploads/2010/10/sqlserver20055b45d1541290c.png?w=290" width="240" height="66" /></a> Server Failover Clustering</u>
   </p>
   
   <p>

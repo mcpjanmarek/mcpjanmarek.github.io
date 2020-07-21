@@ -33,7 +33,7 @@ tags:
   </p>
   
   <p>
-    Microsoft has 3 brackets in the end, but there must be only 2 <img style="border-style: none;" src="http://janmarek.eu/wp-content/uploads/2010/10/wlemoticon-winkingsmile5b25d.png?w=19" alt="Winking smile" />
+    Microsoft has 3 brackets in the end, but there must be only 2 <img style="border-style: none;" src="/wp-content/uploads/2010/10/wlemoticon-winkingsmile5b25d.png?w=19" alt="Winking smile" />
   </p>
   
   <p>
@@ -45,6 +45,6 @@ tags:
   </p>
   
   <p>
-    Microsoft has 2 brackets in the end, but there must be only 1 <img style="border-style: none;" src="http://janmarek.eu/wp-content/uploads/2010/10/wlemoticon-winkingsmile5b25d.png?w=19" alt="Winking smile" />
+    Microsoft has 2 brackets in the end, but there must be only 1 <img style="border-style: none;" src="/wp-content/uploads/2010/10/wlemoticon-winkingsmile5b25d.png?w=19" alt="Winking smile" />
   </p>
 </div>

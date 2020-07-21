@@ -24,7 +24,7 @@ Na Microsoft Connectu je možné si po předchozí registraci stáhnout betu nej
 
 Jako úplně první – změny v konzoly. Microsoft přešel z MMC na Outlook Based Interface, který obdobně využívají další System Center produkty. S tímto se zároveň přejde na Role Based Access Control, tudíž uvidíte jen ty položky, ke kterým máte práva. To přinese z velké míry také jednodušší konfiguraci oprávnění než tomu bylo dosud.
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="1" border="0" alt="1" src="http://janmarek.eu/wp-content/uploads/2011/04/1_thumb.png" width="244" height="171" />](http://janmarek.eu/wp-content/uploads/2011/04/1.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="1" border="0" alt="1" src="/wp-content/uploads/2011/04/1_thumb.png" width="244" height="171" />](/wp-content/uploads/2011/04/1.png)
 
 Serverová část Configuration Manageru by měla být vydaná pouze v x64 verzi. Remote Distribution Point Share, ale bude samozřejmě možné provozovat i na x32 platformě. Tímto vás, ale pravděpodobně hned napadne otázka migrace z verze 2007. Vzhledem k rozdílnosti funkcí a samotné infrastruktury půjde rozhodně o side-by-side migraci. Bude ji možné provést na konkrétních stanicích, přičemž budou zmigrovány aplikace a další konfigurace (DCM politiky apod.) a na závěr samotný klient. Na export/import nástrojích Microsoft pracuje a měly by být vydány současně s verzí 2012.
 
@@ -44,11 +44,11 @@ Nastavení **Client Agents** (HW inventura, SW inventura, Remote Tools, atd.) se
 
 &#160;
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="2" border="0" alt="2" src="http://janmarek.eu/wp-content/uploads/2011/04/2_thumb.png" width="244" height="163" />](http://janmarek.eu/wp-content/uploads/2011/04/2.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="2" border="0" alt="2" src="/wp-content/uploads/2011/04/2_thumb.png" width="244" height="163" />](/wp-content/uploads/2011/04/2.png)
 
 **Desired Configuration Management** bude nově používat Auto Remediation. Tzn., že pokud stanice nebude odpovídat stanovené konfiguraci, bude možné na ní automaticky provést nápravu. Nápravné kroky musíte ale stále vyrobit sami.
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="3" border="0" alt="3" src="http://janmarek.eu/wp-content/uploads/2011/04/3_thumb.png" width="238" height="244" />](http://janmarek.eu/wp-content/uploads/2011/04/3.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="3" border="0" alt="3" src="/wp-content/uploads/2011/04/3_thumb.png" width="238" height="244" />](/wp-content/uploads/2011/04/3.png)
 
 Reporting ve verzi 2012 bude operovat pouze nad SQL Server **Reporting Services**. Standardní webové reporty, které bylo doteď ještě možné používat, již nebudou dostupné.
 
@@ -56,7 +56,7 @@ Ve verzi 2012 se poměrně zásadně mění pohled na distribuci aplikací a to 
 
 Pomocí výše uvedených **Requirement Rules** je možné nasadit uživateli jednu aplikaci všemi způsoby. Pokud tedy bude uživatel na korporátní síti, bude pracovat s aplikací virtualizovanou a pokud přejde např. domů k své stanici, která má připojení pouze do internetu, je mu ta samá aplikace nabídnuta před Remote Desktop Services.
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="4" border="0" alt="4" src="http://janmarek.eu/wp-content/uploads/2011/04/4_thumb.png" width="244" height="171" />](http://janmarek.eu/wp-content/uploads/2011/04/4.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="4" border="0" alt="4" src="/wp-content/uploads/2011/04/4_thumb.png" width="244" height="171" />](/wp-content/uploads/2011/04/4.png)
 
 Samozřejmě je zde možnost přiřazení uživatele k jeho stanici, kterou používá každý den a tím lépe specifikovat deployment. K dispozici jsou i přiřazení typu uživatel pracující na více stanicích, či stanice používaná více uživateli. Metoda přiřazování se nazývá **User Device Affinity.**
 

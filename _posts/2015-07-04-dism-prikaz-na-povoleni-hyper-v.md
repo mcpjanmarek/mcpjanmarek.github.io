@@ -14,7 +14,7 @@ categories:
 tags:
   - Hyper-V
 ---
-Pokud už musíte použít DISM tool na povolení Hyper-V role ve Windows Server, tak dejte pozor na to, že název funkce je case-sensitive! Dnes jsem zažil opět další z tisíce připomínek, že přes DISM to prostě nejde… Jde, ale musí se to pořádně napsat <img class="wlEmoticon wlEmoticon-winkingsmile" style="border-style: none;" src="http://janmarek.eu/wp-content/uploads/2015/09/wlEmoticon-winkingsmile.png" alt="Winking smile" /> 
+Pokud už musíte použít DISM tool na povolení Hyper-V role ve Windows Server, tak dejte pozor na to, že název funkce je case-sensitive! Dnes jsem zažil opět další z tisíce připomínek, že přes DISM to prostě nejde… Jde, ale musí se to pořádně napsat <img class="wlEmoticon wlEmoticon-winkingsmile" style="border-style: none;" src="/wp-content/uploads/2015/09/wlEmoticon-winkingsmile.png" alt="Winking smile" /> 
 
 Když si vylistujete všechny features pomocí:
 

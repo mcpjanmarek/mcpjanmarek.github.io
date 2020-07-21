@@ -16,7 +16,7 @@ tags:
   - Hyper-V
   - Indeed
 ---
-<a href="https://indeed.ms/" target="_blank"><img class="aligncenter size-full wp-image-1028" src="http://janmarek.eu/wp-content/uploads/2015/10/logo_indeed.png" alt="logo_indeed" width="250" height="50" /></a>
+<a href="https://indeed.ms/" target="_blank"><img class="aligncenter size-full wp-image-1028" src="/wp-content/uploads/2015/10/logo_indeed.png" alt="logo_indeed" width="250" height="50" /></a>
 
 S kolegou Romanem vyrážíme za pár týdnů přednášet do Sofie na Microsoft konferenci **INDEED We Can**. Máme tam jednu společnou přednášku a pak každý pár svých samostatně. Rád bych vás tedy dnes seznámil s mými přednáškami a tím vás pozval na tuto velkou evropskou konferenci:
 

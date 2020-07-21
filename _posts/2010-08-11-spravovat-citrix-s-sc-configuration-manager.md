@@ -10,7 +10,7 @@ categories:
   - Nezařazené
   - Uncategorized
 ---
-<span style="text-decoration: underline;"><a href="http://janmarek.eu/wp-content/uploads/2010/10/logo-sccm_torned.png"><img class="alignleft size-full wp-image-114" title="logo-sccm_torned.png" src="http://janmarek.eu/wp-content/uploads/2010/10/logo-sccm_torned.png" alt="SC ConfigMgr" width="230" height="72" /></a>Microsoft<strong>: Citrix konektor pro System Center Správce konfigurace</strong></span>
+<span style="text-decoration: underline;"><a href="/wp-content/uploads/2010/10/logo-sccm_torned.png"><img class="alignleft size-full wp-image-114" title="logo-sccm_torned.png" src="/wp-content/uploads/2010/10/logo-sccm_torned.png" alt="SC ConfigMgr" width="230" height="72" /></a>Microsoft<strong>: Citrix konektor pro System Center Správce konfigurace</strong></span>
 
 <div>
   <em>System Center tým pracuje v partnerství s Citrix integrovat řízení XenApp pomocí Správce konfigurace. Dali jsme dohromady </em><a href="http://download.microsoft.com/download/9/5/4/954F7927-1FE7-470E-BA9B-A1AFEE142849/Citrix Connector for System Center Configuration Manager.pdf"><em>dokument wh</em></a><em>ite paper, který popisuje, jak lze použít nové možnosti ke zlepšení správy podnikových aplikací. Citrix konektor pro správce konfigurace umožňuje jednotnou správu aplikací po celé ploše a prostředí XenApp serverové farmy. Karabiny zvyšuje Správce konfigurace, umožňující správci organizovat úkoly potřebné k poskytování aplikací XenApp serverům a publikovat XenApp hostované aplikace hladce a s minimálním dopadem na uživatele. </em>

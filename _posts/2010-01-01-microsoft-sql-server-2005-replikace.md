@@ -15,7 +15,7 @@ categories:
 ---
 <div id="msgcns!6E7B9216726D07B8!326" class="bvMsg">
   <p>
-    <a href="http://janmarek.eu/wp-content/uploads/2010/10/sqlserver20055b45d7a276e27.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 15px 0 0;" title="sqlserver2005" border="0" alt="sqlserver2005" align="left" src="http://janmarek.eu/wp-content/uploads/2010/10/sqlserver20055b45d7a276e27.png?w=290" width="240" height="66" /></a> &#8211; existuje i peer-to-peer (pres RPC zapouzdrene do HTTPS)
+    <a href="/wp-content/uploads/2010/10/sqlserver20055b45d7a276e27.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 15px 0 0;" title="sqlserver2005" border="0" alt="sqlserver2005" align="left" src="/wp-content/uploads/2010/10/sqlserver20055b45d7a276e27.png?w=290" width="240" height="66" /></a> &#8211; existuje i peer-to-peer (pres RPC zapouzdrene do HTTPS)
   </p>
   
   <p>

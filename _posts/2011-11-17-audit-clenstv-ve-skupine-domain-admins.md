@@ -33,4 +33,4 @@ Pro doplnění ještě dodám, že samozřejmě i odebrání uživatele ze skupi
 
 Obrázek ukazuje události nejprve o odebrání uživatele ze skupiny (ID 4662,4737 a 4729) a po chvíli přidání dvou uživatelu do skupiny (ID 4662,4737 a dvakrát 4728).
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="audit_domain_admins_membership" border="0" alt="audit_domain_admins_membership" src="http://janmarek.eu/wp-content/uploads/2011/11/audit_domain_admins_membership_thumb.jpg" width="580" height="294" />](http://janmarek.eu/wp-content/uploads/2011/11/audit_domain_admins_membership.jpg)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="audit_domain_admins_membership" border="0" alt="audit_domain_admins_membership" src="/wp-content/uploads/2011/11/audit_domain_admins_membership_thumb.jpg" width="580" height="294" />](/wp-content/uploads/2011/11/audit_domain_admins_membership.jpg)

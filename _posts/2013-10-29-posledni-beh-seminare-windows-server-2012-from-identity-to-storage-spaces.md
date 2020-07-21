@@ -14,7 +14,7 @@ categories:
   - Windows Server 2012 R2
 ---
 <p style="text-align: center;">
-  <a href="http://janmarek.eu/wp-content/uploads/2013/10/MSITProAcademy.jpg"><img class="size-full wp-image-660 aligncenter" alt="MSITProAcademy" src="http://janmarek.eu/wp-content/uploads/2013/10/MSITProAcademy.jpg" width="464" height="65" /></a>
+  <a href="/wp-content/uploads/2013/10/MSITProAcademy.jpg"><img class="size-full wp-image-660 aligncenter" alt="MSITProAcademy" src="/wp-content/uploads/2013/10/MSITProAcademy.jpg" width="464" height="65" /></a>
 </p>
 
 Tento čtvrtek 31.10.2013 proběhne poslední běh mého semináře (zdarma) zaměřeného na průřez funkcí ve Windows Server 2012: From Identity to Storage Spaces.

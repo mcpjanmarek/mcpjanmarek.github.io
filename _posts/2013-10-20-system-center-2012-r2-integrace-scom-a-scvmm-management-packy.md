@@ -14,7 +14,7 @@ categories:
   - System Center 2012
   - System Center 2012 R2
 ---
-[<img class="alignleft size-full wp-image-581" alt="scom-scvmm-integration" src="http://janmarek.eu/wp-content/uploads/2013/10/scom-scvmm-integration.png" width="502" height="418" />](http://janmarek.eu/wp-content/uploads/2013/10/scom-scvmm-integration.png)Integrovat Operations Manager a Virtual Machine Manager přináší mnoho funkcí jako např. Reporting pro VMM, Forecast využití zdrojů nebo synchronizaci Maintenance Modu.
+[<img class="alignleft size-full wp-image-581" alt="scom-scvmm-integration" src="/wp-content/uploads/2013/10/scom-scvmm-integration.png" width="502" height="418" />](/wp-content/uploads/2013/10/scom-scvmm-integration.png)Integrovat Operations Manager a Virtual Machine Manager přináší mnoho funkcí jako např. Reporting pro VMM, Forecast využití zdrojů nebo synchronizaci Maintenance Modu.
 
 Jedním z požadavků pro integraci je naimportovat do Operations Manager ty správné Management Packy. Jak sám průvodce říká, potřebujete tyto:
 

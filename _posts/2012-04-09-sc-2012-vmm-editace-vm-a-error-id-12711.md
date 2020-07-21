@@ -23,7 +23,7 @@ Například vezměme v úvahu zvětšení disku figurujícího v clusteru jako C
 
 > <span style="color:#ff0000;"><strong>Set-SCVirtualMachine : VMM cannot complete the WMI operation on the server (hyperv.domain.local) because of an error: [MSCluster_Resource.Name="9932aa98-99a2-4fff-8e6c-xxxxxxxxxxxx"] The cluster resource could not be found. (Error ID: 12711, Detailed Error: The cluster resource could not be found (0x138F))</strong></span>
 > 
-> <span style="color:#ffff00;"><a href="http://janmarek.eu/wp-content/uploads/2012/04/error_id_12711__error2.png"><img title="error_id_12711__error" style="border-top:0;border-right:0;background-image:none;border-bottom:0;padding-top:0;padding-left:0;border-left:0;display:inline;padding-right:0;" border="0" alt="error_id_12711__error" src="http://janmarek.eu/wp-content/uploads/2012/04/error_id_12711__error_thumb1.png" width="634" height="235" /></a></span>
+> <span style="color:#ffff00;"><a href="/wp-content/uploads/2012/04/error_id_12711__error2.png"><img title="error_id_12711__error" style="border-top:0;border-right:0;background-image:none;border-bottom:0;padding-top:0;padding-left:0;border-left:0;display:inline;padding-right:0;" border="0" alt="error_id_12711__error" src="/wp-content/uploads/2012/04/error_id_12711__error_thumb1.png" width="634" height="235" /></a></span>
 > 
 > <span style="color:#ff0000;"></span>
 
@@ -33,4 +33,4 @@ Když na této VM provedete operaci Repair s parametrem Ignore, nic se nezmění
 
 Poté již lze v SC2012VMM konzoli opravit stav VM a následně provést samotnou editaci konfigurace.
 
-[<img title="error_id_12711__refreshVM" class="alignleft size-full wp-image-452" style="margin:7px 14px 6px 0;" alt="" src="http://janmarek.eu/wp-content/uploads/2012/04/error_id_12711__refreshvm.png" width="467" height="448" />](http://janmarek.eu/wp-content/uploads/2012/04/error_id_12711__refreshvm.png)
+[<img title="error_id_12711__refreshVM" class="alignleft size-full wp-image-452" style="margin:7px 14px 6px 0;" alt="" src="/wp-content/uploads/2012/04/error_id_12711__refreshvm.png" width="467" height="448" />](/wp-content/uploads/2012/04/error_id_12711__refreshvm.png)

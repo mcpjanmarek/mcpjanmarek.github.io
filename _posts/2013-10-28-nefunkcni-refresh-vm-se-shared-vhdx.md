@@ -16,7 +16,7 @@ Dnes jsem v System Center 2012 R2 Virtual Machine Manager konzoli našel pravdě
 
 > The requested operation cannot be performed on the virtual disk as it is currently used in shared mode (0xC05CFF0A)
 
-[<img class="alignleft size-full wp-image-651" alt="refresh-gen2vm-shared-vhdx-error" src="http://janmarek.eu/wp-content/uploads/2013/10/refresh-gen2vm-shared-vhdx-error.png" width="1080" height="231" />](http://janmarek.eu/wp-content/uploads/2013/10/refresh-gen2vm-shared-vhdx-error.png)
+[<img class="alignleft size-full wp-image-651" alt="refresh-gen2vm-shared-vhdx-error" src="/wp-content/uploads/2013/10/refresh-gen2vm-shared-vhdx-error.png" width="1080" height="231" />](/wp-content/uploads/2013/10/refresh-gen2vm-shared-vhdx-error.png)
 
 Refresh u ostatních VM probíhá bez problémů. Na chybu konfigurace to u mne v tuto chvíli také nevypadá.
 

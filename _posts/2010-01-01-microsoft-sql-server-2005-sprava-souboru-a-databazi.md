@@ -15,7 +15,7 @@ categories:
 ---
 <div id="msgcns!6E7B9216726D07B8!308" class="bvMsg">
   <p>
-    <a href="http://janmarek.eu/wp-content/uploads/2010/10/sqlserver20055b45d1ddbc9b9.png" rel="WLPP"><img style="display:inline;border-width:0;margin:0 10px 0 0;" title="sqlserver2005" border="0" alt="sqlserver2005" align="left" src="http://janmarek.eu/wp-content/uploads/2010/10/sqlserver20055b45d1ddbc9b9.png?w=290" width="240" height="66" /></a> -IIS uzira SQL RAM, protoze SQL sio kontroluje volnou RAM a kdyz ji je malo tak si snizi pamet, ovsem tu uvolnenou si IIS ukradne a tak je to zacyklene, az je buffer SQL na minimu a pak jde vykon dolu, po restartu serveru se SQL vizualne zrychli, ale to je tim, ze IIS uvolnilo pamet&#8230; zacne ovsem znovu proces kradeni RAM
+    <a href="/wp-content/uploads/2010/10/sqlserver20055b45d1ddbc9b9.png" rel="WLPP"><img style="display:inline;border-width:0;margin:0 10px 0 0;" title="sqlserver2005" border="0" alt="sqlserver2005" align="left" src="/wp-content/uploads/2010/10/sqlserver20055b45d1ddbc9b9.png?w=290" width="240" height="66" /></a> -IIS uzira SQL RAM, protoze SQL sio kontroluje volnou RAM a kdyz ji je malo tak si snizi pamet, ovsem tu uvolnenou si IIS ukradne a tak je to zacyklene, az je buffer SQL na minimu a pak jde vykon dolu, po restartu serveru se SQL vizualne zrychli, ale to je tim, ze IIS uvolnilo pamet&#8230; zacne ovsem znovu proces kradeni RAM
   </p>
   
   <p>

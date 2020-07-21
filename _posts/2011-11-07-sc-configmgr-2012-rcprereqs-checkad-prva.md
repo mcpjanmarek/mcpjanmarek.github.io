@@ -24,4 +24,4 @@ Jedním z důležitých nastavení před samotnou instalaci SCCM site, je dát �
 
 V RC SCCM 2012 ovšem udělali očividně v prerequisite checkeru kontrolu “natvrdo” a proto při použití dom.skupiny je výsledkem Warning. Není se ovšem čeho bát, protože i tak má ůčet práva a proto bude vše fungovat. Je to ale bod, kterého se může člověk leknout…
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="sccm2012rc_prereq" border="0" alt="sccm2012rc_prereq" src="http://janmarek.eu/wp-content/uploads/2011/11/sccm2012rc_prereq_thumb.png" width="244" height="184" />](http://janmarek.eu/wp-content/uploads/2011/11/sccm2012rc_prereq.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="sccm2012rc_prereq" border="0" alt="sccm2012rc_prereq" src="/wp-content/uploads/2011/11/sccm2012rc_prereq_thumb.png" width="244" height="184" />](/wp-content/uploads/2011/11/sccm2012rc_prereq.png)

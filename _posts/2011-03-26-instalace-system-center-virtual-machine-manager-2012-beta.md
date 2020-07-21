@@ -39,7 +39,7 @@ Co budeme tedy pro instalaci všech SCVMM management komponent na jeden server (
       * SQL Server 2008 R2 Comand Line Utilities ([X64 Package](http://go.microsoft.com/fwlink/?LinkID=188430&clcid=0x409))
   * .NET Framework 3.5.1
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="3_w2k8_features" src="http://janmarek.eu/wp-content/uploads/2011/03/3_w2k8_features_thumb.png" border="0" alt="3_w2k8_features" width="244" height="110" />](http://janmarek.eu/wp-content/uploads/2011/03/3_w2k8_features.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="3_w2k8_features" src="/wp-content/uploads/2011/03/3_w2k8_features_thumb.png" border="0" alt="3_w2k8_features" width="244" height="110" />](/wp-content/uploads/2011/03/3_w2k8_features.png)
 
   * Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 (funguje i verze pro SP1)
   * Powershell 2.0
@@ -56,13 +56,13 @@ Co budeme tedy pro instalaci všech SCVMM management komponent na jeden server (
       * Request Filtering
       * Static Content
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="4_webserver_1" src="http://janmarek.eu/wp-content/uploads/2011/03/4_webserver_1_thumb.png" border="0" alt="4_webserver_1" width="209" height="244" />](http://janmarek.eu/wp-content/uploads/2011/03/4_webserver_1.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="4_webserver_2a" src="http://janmarek.eu/wp-content/uploads/2011/03/4_webserver_2a_thumb.png" border="0" alt="4_webserver_2a" width="244" height="211" />](http://janmarek.eu/wp-content/uploads/2011/03/4_webserver_2a.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="4_webserver_2b" src="http://janmarek.eu/wp-content/uploads/2011/03/4_webserver_2b_thumb.png" border="0" alt="4_webserver_2b" width="244" height="211" />](http://janmarek.eu/wp-content/uploads/2011/03/4_webserver_2b.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="4_webserver_1" src="/wp-content/uploads/2011/03/4_webserver_1_thumb.png" border="0" alt="4_webserver_1" width="209" height="244" />](/wp-content/uploads/2011/03/4_webserver_1.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="4_webserver_2a" src="/wp-content/uploads/2011/03/4_webserver_2a_thumb.png" border="0" alt="4_webserver_2a" width="244" height="211" />](/wp-content/uploads/2011/03/4_webserver_2a.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="4_webserver_2b" src="/wp-content/uploads/2011/03/4_webserver_2b_thumb.png" border="0" alt="4_webserver_2b" width="244" height="211" />](/wp-content/uploads/2011/03/4_webserver_2b.png)
 
   * Doménový účet s právy administrátora na SCVMM serveru (v mém scénáři se účet jmenuje „learningscvmm2012_svcacc”
 
 Kompletní informace naleznet na [Technet Library SCVMM 2012](http://technet.microsoft.com/en-us/library/gg610610.aspx).
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="2_before_you_begin" src="http://janmarek.eu/wp-content/uploads/2011/03/2_before_you_begin_thumb.png" border="0" alt="2_before_you_begin" width="244" height="179" />](http://janmarek.eu/wp-content/uploads/2011/03/2_before_you_begin.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="2_before_you_begin" src="/wp-content/uploads/2011/03/2_before_you_begin_thumb.png" border="0" alt="2_before_you_begin" width="244" height="179" />](/wp-content/uploads/2011/03/2_before_you_begin.png)
 
 ### Instalace
 
@@ -70,45 +70,45 @@ Server, operační systém a všechny potřebné komponenty jsou připraveny. Po
 
 Instalátor spustíme buď autorunem nebo setupem. Zobrazí se nám krásné nové okno s možnostmi instalace komponent SCVMM.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="1" src="http://janmarek.eu/wp-content/uploads/2011/03/1_thumb.png" border="0" alt="1" width="244" height="177" />](http://janmarek.eu/wp-content/uploads/2011/03/1.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="1" src="/wp-content/uploads/2011/03/1_thumb.png" border="0" alt="1" width="244" height="177" />](/wp-content/uploads/2011/03/1.png)
 
 Na výběr máme Instalaci SCVMM (Install) nebo lokálního agenta SCVMM pro virtualizační hosty (Local Agent), ale také šikovné odkazy na potřebnou dokumentaci a další informace. Pokračujeme tedy položkou Install a po přečtení a potvrzení licenčního ujednání se dostáváme ke kroku výběru instalace komponent SCVMM. Jak jsem již uvedl na začátku článku, v našem případě instalujeme všechny komponenty na jeden server.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="6" src="http://janmarek.eu/wp-content/uploads/2011/03/6_thumb.png" border="0" alt="6" width="244" height="184" />](http://janmarek.eu/wp-content/uploads/2011/03/6.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="6" src="/wp-content/uploads/2011/03/6_thumb.png" border="0" alt="6" width="244" height="184" />](/wp-content/uploads/2011/03/6.png)
 
 Následují údaje o organizaci a licenční číslo. V tuto chvíli se jedná o beta verzi produktu, proto licenční číslo nezadáváme.Zvolíme zda chceme provádět instalaci Microsoft updatů a kam do jakého umístění se má celý produkt nainstalovat. Instalátor poté zkontroluje dostupnost všech potřebných komponent.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="10" src="http://janmarek.eu/wp-content/uploads/2011/03/10_thumb.png" border="0" alt="10" width="244" height="184" />](http://janmarek.eu/wp-content/uploads/2011/03/10.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="10" src="/wp-content/uploads/2011/03/10_thumb.png" border="0" alt="10" width="244" height="184" />](/wp-content/uploads/2011/03/10.png)
 
 Dále se dostáváme ke konfiguraci zmiňovaného SQL Server připojení (v našem scénáři využiji vzdálený SQL Server), servisního účtu SCVMM a zda chceme encryption key uložit lokálně či do Active Directory partition.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="11" src="http://janmarek.eu/wp-content/uploads/2011/03/11_thumb.png" border="0" alt="11" width="244" height="184" />](http://janmarek.eu/wp-content/uploads/2011/03/11.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="12" src="http://janmarek.eu/wp-content/uploads/2011/03/12_thumb.png" border="0" alt="12" width="244" height="185" />](http://janmarek.eu/wp-content/uploads/2011/03/12.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="11" src="/wp-content/uploads/2011/03/11_thumb.png" border="0" alt="11" width="244" height="184" />](/wp-content/uploads/2011/03/11.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="12" src="/wp-content/uploads/2011/03/12_thumb.png" border="0" alt="12" width="244" height="185" />](/wp-content/uploads/2011/03/12.png)
 
 Pokračujeme konfigurací či jen ověřením konfigurace portů. Tyto porty doporučuji zaznamenat a projít diagram konektivity serverů s SCVMM a případně řešit výjimky na firewallech. Velký pozor také musíme dát na kolize cest se stávajícím SCVMM 2008 R2 (pokud nám již v organizaci běží), který využívá stejné porty.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="13" src="http://janmarek.eu/wp-content/uploads/2011/03/13_thumb.png" border="0" alt="13" width="244" height="185" />](http://janmarek.eu/wp-content/uploads/2011/03/13.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="13" src="/wp-content/uploads/2011/03/13_thumb.png" border="0" alt="13" width="244" height="185" />](/wp-content/uploads/2011/03/13.png)
 
 Protože jsme zvolili i instalaci modulu Self-Service Portal (SSP), instalátor nás vybízí k zadání jména SCVMM serveru, v našem případě je to tedy tentýž server, komunikačního portu, portu připojení k webové konzoli SSP a případně nastavení Host Headeru.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="14" src="http://janmarek.eu/wp-content/uploads/2011/03/14_thumb.png" border="0" alt="14" width="244" height="184" />](http://janmarek.eu/wp-content/uploads/2011/03/14.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="14" src="/wp-content/uploads/2011/03/14_thumb.png" border="0" alt="14" width="244" height="184" />](/wp-content/uploads/2011/03/14.png)
 
 V poslední části instalátoru již jen necháme, aby SCVMM vytvořilo nový Library Share, či zvolíme vlastní existující Library Share (který ale musí být na tomto serveru). Potvrdíme konfigurované hodnoty a spustíme instalaci.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="15" src="http://janmarek.eu/wp-content/uploads/2011/03/15_thumb.png" border="0" alt="15" width="244" height="185" />](http://janmarek.eu/wp-content/uploads/2011/03/15.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="15" src="/wp-content/uploads/2011/03/15_thumb.png" border="0" alt="15" width="244" height="185" />](/wp-content/uploads/2011/03/15.png)
 
 Po jejím úspěšném dokončení máme možnost ihned spustit konzolu SCVMM. Potvrdíme připojení k lokálnímu serveru a už se můžeme kochat pohledem na novou verzi 2012.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="17" src="http://janmarek.eu/wp-content/uploads/2011/03/17_thumb.png" border="0" alt="17" width="244" height="185" />](http://janmarek.eu/wp-content/uploads/2011/03/17.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="18" src="http://janmarek.eu/wp-content/uploads/2011/03/18_thumb.png" border="0" alt="18" width="244" height="184" />](http://janmarek.eu/wp-content/uploads/2011/03/18.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="19" src="http://janmarek.eu/wp-content/uploads/2011/03/19_thumb.png" border="0" alt="19" width="244" height="125" />](http://janmarek.eu/wp-content/uploads/2011/03/19.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="21_console" src="http://janmarek.eu/wp-content/uploads/2011/03/21_console_thumb.png" border="0" alt="21_console" width="244" height="156" />](http://janmarek.eu/wp-content/uploads/2011/03/21_console.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="17" src="/wp-content/uploads/2011/03/17_thumb.png" border="0" alt="17" width="244" height="185" />](/wp-content/uploads/2011/03/17.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="18" src="/wp-content/uploads/2011/03/18_thumb.png" border="0" alt="18" width="244" height="184" />](/wp-content/uploads/2011/03/18.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="19" src="/wp-content/uploads/2011/03/19_thumb.png" border="0" alt="19" width="244" height="125" />](/wp-content/uploads/2011/03/19.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="21_console" src="/wp-content/uploads/2011/03/21_console_thumb.png" border="0" alt="21_console" width="244" height="156" />](/wp-content/uploads/2011/03/21_console.png)
 
 ### Prvotní konfigurace
 
 Než přidáme jakékoli hosty do SCVMM provedeme konfiguraci základních nastavení v nodu Settings &#8211; General. Prvním je přihlášení do CEIP.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="22" src="http://janmarek.eu/wp-content/uploads/2011/03/22_thumb.png" border="0" alt="22" width="244" height="209" />](http://janmarek.eu/wp-content/uploads/2011/03/22.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="23" src="http://janmarek.eu/wp-content/uploads/2011/03/23_thumb.png" border="0" alt="23" width="244" height="202" />](http://janmarek.eu/wp-content/uploads/2011/03/23.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="22" src="/wp-content/uploads/2011/03/22_thumb.png" border="0" alt="22" width="244" height="209" />](/wp-content/uploads/2011/03/22.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="23" src="/wp-content/uploads/2011/03/23_thumb.png" border="0" alt="23" width="244" height="202" />](/wp-content/uploads/2011/03/23.png)
 
 A dále nastavíme, administrátorský přístup do naší konzoly. Odebereme tedy nepotřebné skupiny a přidáme požadované uživatele či skupiny uživatelů. Všimněte si, že konzola stále nabízí možnost View Script, díky které můžeme „naklikané“ operace ve wizardech následně sami provádět automatizovaně PowerShellem.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="24" src="http://janmarek.eu/wp-content/uploads/2011/03/24_thumb.png" border="0" alt="24" width="214" height="244" />](http://janmarek.eu/wp-content/uploads/2011/03/24.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="25_po" src="http://janmarek.eu/wp-content/uploads/2011/03/25_po_thumb.png" border="0" alt="25_po" width="244" height="197" />](http://janmarek.eu/wp-content/uploads/2011/03/25_po.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="24" src="/wp-content/uploads/2011/03/24_thumb.png" border="0" alt="24" width="214" height="244" />](/wp-content/uploads/2011/03/24.png)[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="25_po" src="/wp-content/uploads/2011/03/25_po_thumb.png" border="0" alt="25_po" width="244" height="197" />](/wp-content/uploads/2011/03/25_po.png)
 
 ### Co dál?
 

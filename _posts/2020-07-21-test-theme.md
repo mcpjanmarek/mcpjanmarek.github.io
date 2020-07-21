@@ -5,3 +5,7 @@ layout: post
 ---
 Tak zkouším nový theme.
 Pokud dva.
+
+```powershell
+Get-Process
+```

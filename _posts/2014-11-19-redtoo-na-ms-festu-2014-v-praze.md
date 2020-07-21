@@ -14,4 +14,5 @@ tags:
   - Hyper-V
   - redtoo
 ---
-[<img title="111914_1735_redtooatMSF1" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="111914_1735_redtooatMSF1" src="http://janmarek.eu/wp-content/uploads/2014/12/111914_1735_redtooatMSF1_thumb.jpg" width="550" height="779" />](http://janmarek.eu/wp-content/uploads/2014/12/111914_1735_redtooatMSF1.jpg)
+[<img title="111914_1735_redtooatMSF1" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="111914_1735_redtooatMSF1" src="/wp-content/uploads/2014/12/111914_1735_redtooatMSF1_thumb.jpg" width="550" height="779" />](/wp-content/uploads/2014/12/111914_1735_redtooatMSF1.jpg)
+

@@ -12,4 +12,3 @@ categories:
   - Windows Server 2012 R2
 ---
 Sice je to již nějaká doba, co jsem měl v Bratislavě tuto přednášku, ale až nedávno se dostala online. Díky moc organizátorům za pořízení záznamu. Btw. zním tam jak skřítek, takhle ve skutečnosti nemluvím 🙂
-

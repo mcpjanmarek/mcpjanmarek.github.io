@@ -17,4 +17,3 @@ categories:
   - Windows Server 2012
 ---
 K doplnění předchozího postu dodávám, že i další verze Windows Server 8. Beta je volně ke stažení například <a href="http://technet.microsoft.com/en-us/evalcenter/hh670538.aspx?ocid=&wt.mc_id=TEC_108_1_33" target="_blank">zde</a>. Mnoho nových funkcí stojí za vyzkoušení!
-

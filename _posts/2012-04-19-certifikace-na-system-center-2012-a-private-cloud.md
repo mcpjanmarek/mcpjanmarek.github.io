@@ -42,4 +42,3 @@ Co se týče školení, je ve vývoji mnoho kurzů. Dovolím si vypíchnout 4 z 
   * MOC 10748: Deploying System Center 2012 Configuration Manager
   * MOC 10750: Monitoring and Operating a Private Cloud with System Center 2012
   * MOC 10751: Configuring and Deploying a Private Cloud with System Center 2012
-

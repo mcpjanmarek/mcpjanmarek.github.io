@@ -14,4 +14,3 @@ categories:
   - System Center
 ---
 Našel jsem zajímavý tool pro výpočet návratnosti investicí do System Center produktů. Jukněte sem: <https://roianalyst.alinean.com/microsoft/system_center/launch.htm>
-

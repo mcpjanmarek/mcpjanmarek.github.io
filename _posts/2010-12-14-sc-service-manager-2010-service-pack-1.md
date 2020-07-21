@@ -33,4 +33,3 @@ With Service Pack 1 for System Center Service Manager, language support is added
 In addition to the additional language support, over 500 improvements were made to address issues and customer change requests.
 
 System Center Service Manager 2010 SP1 is available through the Microsoft Download Center from December 16<sup>th</sup> 2010 [here](http://blogs.technet.com/controlpanel/blogs/redir.aspx?C=bb3ce7d7f2664242af1abb563b87677e&URL=http%3a%2f%2fwww.microsoft.com%2fdownloads%2fdetails.aspx%3fFamilyID%3d5118055b-9cd7-45cd-bae6-7fc287d832d7).
-

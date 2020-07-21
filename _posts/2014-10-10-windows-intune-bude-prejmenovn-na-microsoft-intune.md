@@ -17,4 +17,3 @@ Na konci tohoto roku bude Windows Intune přejmenován na Microsoft Intune.
 
   * Microsoft Intune více reprezentuje možnosti a funkce, které poskytuje na iOS a Android zařízeních spolu s Windows
   * K přejmenování dojde na konci tohoto roku a to s příchodem velkého update.
-

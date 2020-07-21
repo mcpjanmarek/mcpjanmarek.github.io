@@ -24,4 +24,3 @@ Možná jste se rozhodli vyzkoušet nové &#8222;osmičky&#8220; ve virtuálce n
   * nebo dokonce jde celý Hyper-V server do BSOD!
 
 Pokud se Vám něco takového už stalo nebo se tomu chcete jednoduše vyhnout, mrkněte na <a href="http://support.microsoft.com/kb/2526776" target="_blank">toto</a> KBcko.
-

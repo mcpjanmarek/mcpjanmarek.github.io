@@ -15,4 +15,3 @@ Tohle mě dnes dostalo. Jsem opravdu zvědav, jak moc dobře se na tom píše, p
 
 
 &nbsp;
-

@@ -22,9 +22,8 @@ categories:
 
 Ve VMM konzoli v části Settings &#8211; System Center Settings &#8211; Operations Manager Settins &#8211; SQL Server Analysis Services povolíme integraci a vyplníme název SQL Serveru a instanci, na kterých běží Analysis Services a použijeme zmiňovaný účet SQLVMMAS.
 
-[<img class="alignleft size-full wp-image-588" alt="vmm-as-configuration" src="/wp-content/uploads/2013/10/vmm-as-configuration.png" width="772" height="577" />](/wp-content/uploads/2013/10/vmm-as-configuration.png)
+[<img class="alignleft size-full wp-image-588" alt="vmm-as-configuration" src="http://janmarek.eu/wp-content/uploads/2013/10/vmm-as-configuration.png" width="772" height="577" />](http://janmarek.eu/wp-content/uploads/2013/10/vmm-as-configuration.png)
 
 Ve VMM konzoli v jobs sledujeme průběh konfigurace.
 
 Oficiální informace <a href="http://technet.microsoft.com/en-us/library/hh882395.aspx" target="_blank">zde</a>.
-

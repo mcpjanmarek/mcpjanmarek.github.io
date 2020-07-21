@@ -18,7 +18,6 @@ tags:
 ---
 <div id="msgcns!6E7B9216726D07B8!360" class="bvMsg">
   <div>
-    <a href="http://janmarek.eu/wp-content/uploads/2010/10/fim5b55d1.png" rel="WLPP"><img style="display: inline; margin: 0 10px 0 0; border: 0;" title="fim" src="/wp-content/uploads/2010/10/fim5b55d1.png?w=280" alt="fim" width="240" height="77" align="left" border="0" /></a>There&#8217;s the Microsoft step-by-step guide how to configure synchronization Active Directory and FIM database <a href="http://social.technet.microsoft.com/wiki/contents/articles/how-do-i-synchronize-users-from-active-directory-domain-services-to-fim.aspx">http://social.technet.microsoft.com/wiki/contents/articles/how-do-i-synchronize-users-from-active-directory-domain-services-to-fim.aspx</a>. And don&#8217;t forget about this <a href="http://support.microsoft.com/kb/303972/en-us">http://support.microsoft.com/kb/303972/en-us</a> 😉
+    <a href="http://janmarek.eu/wp-content/uploads/2010/10/fim5b55d1.png" rel="WLPP"><img style="display: inline; margin: 0 10px 0 0; border: 0;" title="fim" src="http://janmarek.eu/wp-content/uploads/2010/10/fim5b55d1.png?w=280" alt="fim" width="240" height="77" align="left" border="0" /></a>There&#8217;s the Microsoft step-by-step guide how to configure synchronization Active Directory and FIM database <a href="http://social.technet.microsoft.com/wiki/contents/articles/how-do-i-synchronize-users-from-active-directory-domain-services-to-fim.aspx">http://social.technet.microsoft.com/wiki/contents/articles/how-do-i-synchronize-users-from-active-directory-domain-services-to-fim.aspx</a>. And don&#8217;t forget about this <a href="http://support.microsoft.com/kb/303972/en-us">http://support.microsoft.com/kb/303972/en-us</a> 😉
   </div>
 </div>
-

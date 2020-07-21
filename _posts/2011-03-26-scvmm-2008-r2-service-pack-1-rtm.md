@@ -16,4 +16,3 @@ categories:
 Po uvedení Service Packu 1 pro Windows Server 2008 R2 zhruba před měsícem, jsme se konečně dočkali i RTM verze SP1 pro System Center Virtual Machine Manager 2008 R2. Nyní jsme tedy již schopni plně spravovat nejnovější funkcionality SP1 zaměřené na virtualizaci a to DYNAMIC MEMORY či REMOTEFX. Tento Service Pack se aplikuje na všechny komponenty SCVMM, tedy Management Server, Self-Service Portal, Agent (upgrade agenta provedete následně z konzole SCVMM) a samozřejmě konzole SCVMM.
 
 Evaluation SCVMM 2008 R2 SP1 k dispozici zde: <http://technet.microsoft.com/en-us/evalcenter/cc793138.aspx>
-

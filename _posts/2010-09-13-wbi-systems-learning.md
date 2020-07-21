@@ -16,4 +16,3 @@ categories:
 <div class="bvMsg">
   <a href="http://learning.wbi.cz/" target="_blank"><img alt="WBI Learning" src="http://learning.wbi.cz/Style Library/images/logo.png" /></a>
 </div>
-

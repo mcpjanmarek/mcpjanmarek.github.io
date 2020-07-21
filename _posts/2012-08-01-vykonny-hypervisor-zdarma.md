@@ -32,7 +32,6 @@ a pro úplnost ještě údaje pro budoucí Microsoft Hyper-V Server 2012
   * počet členů clusteru: 64
   * počet virtuálních strojů v clusteru: 4000
 
-Pro mě osobně je odpověď na otázku &#8222;Jakou bezplatnou virtualizační platformu použít pro mou infrastrukturu?&#8220; jasná: &#8222;Microsoft Hyper-V Server![<img class="alignleft size-full wp-image-534" title="microsoft-hyper-v-server-2008-r2" src="/wp-content/uploads/2012/08/microsoft-hyper-v-server-2008-r2.png" alt="" width="665" height="366" />](/wp-content/uploads/2012/08/microsoft-hyper-v-server-2008-r2.png)&#8220;
+Pro mě osobně je odpověď na otázku &#8222;Jakou bezplatnou virtualizační platformu použít pro mou infrastrukturu?&#8220; jasná: &#8222;Microsoft Hyper-V Server![<img class="alignleft size-full wp-image-534" title="microsoft-hyper-v-server-2008-r2" src="http://janmarek.eu/wp-content/uploads/2012/08/microsoft-hyper-v-server-2008-r2.png" alt="" width="665" height="366" />](http://janmarek.eu/wp-content/uploads/2012/08/microsoft-hyper-v-server-2008-r2.png)&#8220;
 
 &nbsp;
-

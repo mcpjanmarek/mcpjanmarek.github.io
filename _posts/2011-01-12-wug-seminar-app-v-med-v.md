@@ -18,4 +18,3 @@ categories:
   - WBI Systems
 ---
 Pokud nemate zitra 13.1.2011 v podvecer-vecer cas, pak prijdte na muj seminar o aplikacni a desktopové virtualizaci pro WUG v Praze. Registrace a vice info tu: http://wug.cz/praha/akce/351-App-V-a-MED-V
-

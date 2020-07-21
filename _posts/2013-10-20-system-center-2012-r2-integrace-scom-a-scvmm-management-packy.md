@@ -14,7 +14,7 @@ categories:
   - System Center 2012
   - System Center 2012 R2
 ---
-[<img class="alignleft size-full wp-image-581" alt="scom-scvmm-integration" src="/wp-content/uploads/2013/10/scom-scvmm-integration.png" width="502" height="418" />](/wp-content/uploads/2013/10/scom-scvmm-integration.png)Integrovat Operations Manager a Virtual Machine Manager přináší mnoho funkcí jako např. Reporting pro VMM, Forecast využití zdrojů nebo synchronizaci Maintenance Modu.
+[<img class="alignleft size-full wp-image-581" alt="scom-scvmm-integration" src="http://janmarek.eu/wp-content/uploads/2013/10/scom-scvmm-integration.png" width="502" height="418" />](http://janmarek.eu/wp-content/uploads/2013/10/scom-scvmm-integration.png)Integrovat Operations Manager a Virtual Machine Manager přináší mnoho funkcí jako např. Reporting pro VMM, Forecast využití zdrojů nebo synchronizaci Maintenance Modu.
 
 Jedním z požadavků pro integraci je naimportovat do Operations Manager ty správné Management Packy. Jak sám průvodce říká, potřebujete tyto:
 
@@ -28,4 +28,3 @@ Dnes je už ale částečně problém některé z nich najít. Zmiňovaný SQL M
 Zbylé tři IIS MP ale v katalogu nejsou. Když se po nich začnete pídit po internetu, tak narazíte jen na &#8222;Windows Server Internet Information Services 7 Management Pack for System Center Operations Manager 2007&#8220;. Ano, je pro SCOM 2007, ale dá se použít i pro SCOM 2012 (R2). Ten je tedy ke stažení <a href="http://www.microsoft.com/en-us/download/confirmation.aspx?id=9815" target="_blank">zde</a>.
 
 Teď už jen nastavit práva pro správné účty a nastavit z VMM konzole integrace. Hodně štěstí!
-

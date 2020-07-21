@@ -41,4 +41,3 @@ Pokud máte prostor na prezenční kurz pak navštivte mé 2 kurzy:
 V samotných certifikacích 70-246 a 70-247 sice otázky na Hyper-V nejsou, ale znalost je vhodná pro pochopení návazností u System Center 2012.
 
 Začněte tedy čerpat informace k Hyper-V, skládat zkoušky vedoucí k MCSA: Windows Server 2008 a případně zkoušku 70-659, kterou můžete dočasně nahradit zkoušku 70-247 (do 31.1.2013).
-

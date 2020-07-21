@@ -21,4 +21,3 @@ Nebo můžete samozřejmě použít Windows PowerShell:
 > Get-NetFirewallProfile -Name * | Set-NetFirewallProfile -Enabled false
 
 Ale! Opravdu chcete úplně vypnout Windows Firewall? Zamyslete se 🙂
-

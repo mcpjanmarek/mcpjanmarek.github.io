@@ -30,4 +30,3 @@ categories:
 3. zkouška číslo 70-693: MCITP: Windows Server 2008 R2, Virtualization Administrator. Ke složení této zkoušky musíte nejdříve úspěšně dokončit předchozí dvě. Samotná zkouška se skládá z otázek z oblastí návrhu a konfigurace virtuální infrastruktury. Více informací <a href="http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-693" target="_blank">zde</a>.
 
 Samostatně je k dispozici ještě zkouška úrovně MCTS k produktu System Center Virtual Machine Manager 2008, což je nástroj pro správu nejen Hyper-V hostitelů a prostředí. Zkoušku naleznete pod číslem 70-403 a bližší informace jsou k dispozici <a href="http://www.microsoft.com/learning/en/us/exam.aspx?id=70-403" target="_blank">zde</a>.
-

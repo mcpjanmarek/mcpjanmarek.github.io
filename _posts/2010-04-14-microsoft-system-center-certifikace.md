@@ -37,4 +37,3 @@ categories:
     Jeste jsem pred casem zaslechl neco o navazujicim Microsoft Certified IT Professional: Operations Management (exam 70-402), ale nikdo mi nepotvrdil, ze takovy certifikat existuje a to ani sam Microsoft. Snad casem neco pribyde, protoze tato rodina produktu zacina byt velice zasadni a ocekaval bych na ni i certifikaci Microsoft Certified Master.
   </p>
 </div>
-

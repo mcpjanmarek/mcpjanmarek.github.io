@@ -21,5 +21,4 @@ categories:
   - Windows Server
   - Windows Server 2012
 ---
-[<img class="alignleft  wp-image-473" title="winsrv8to2012" src="/wp-content/uploads/2012/04/winsrv8to2012.png" alt="" width="208" height="59" />](/wp-content/uploads/2012/04/winsrv8to2012.png)A je to na světě! Včera v rámci zveřejňování informací ohledně řešení Private Cloud prozradil Brad Anderson, že oficiální název příští verze Windows Serveru bude **Windows Server 2012**. K jeho vydání by mělo dojít ke konci tohoto roku&#8230;
-
+[<img class="alignleft  wp-image-473" title="winsrv8to2012" src="http://janmarek.eu/wp-content/uploads/2012/04/winsrv8to2012.png" alt="" width="208" height="59" />](http://janmarek.eu/wp-content/uploads/2012/04/winsrv8to2012.png)A je to na světě! Včera v rámci zveřejňování informací ohledně řešení Private Cloud prozradil Brad Anderson, že oficiální název příští verze Windows Serveru bude **Windows Server 2012**. K jeho vydání by mělo dojít ke konci tohoto roku&#8230;

@@ -21,4 +21,3 @@ Od konání HYPERCONu v Novém Jičíně uběhl již skoro měsíc a za necelý 
 Aktuálně nejdůležitější informace pro vás je spuštění registrace. Pořadatelem pražského konání je pod mým vedením společnost KPCS a právě zde najdete proklikem registrační formulář. Veškeré info a zmíněnou registraci najdete na webu <a href="http://www.hypercon.cz" target="_blank">www.hypercon.cz</a>.
 
 Velice se na vás těším a věřím, že budete opět více než spokojeni s konferencí a náležitě si ji užijete!
-

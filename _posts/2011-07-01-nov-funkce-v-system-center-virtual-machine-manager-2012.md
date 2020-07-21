@@ -25,19 +25,19 @@ V předchozím článku jsme prošli instalaci budoucího nástupce System Cente
 
 Funkce vytvoření a správy privátních cloudů poskytuje možnosti oddělení spravovaných prostředí a jejich resource konfiguraci. Můžete díky ní jednoduše řídit oprávnění k virtuálním strojům či službám, nastavovat, na kterých hostitelích cloud poběží, množství zdrojů hostitele, jež může cloud využít a samozřejmě konkrétní nastavení Performance and Resource Optimization (PRO) funkce.
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="1" border="0" alt="1" src="/wp-content/uploads/2011/07/1_thumb.png" width="244" height="191" />](/wp-content/uploads/2011/07/1.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="1" border="0" alt="1" src="http://janmarek.eu/wp-content/uploads/2011/07/1_thumb.png" width="244" height="191" />](http://janmarek.eu/wp-content/uploads/2011/07/1.png)
 
 ### Poskytované služby a šablony
 
 Pomocí nástroje Service Template Designer jste schopni vytvořit šablony struktur poskytovaných služeb. Na základě těchto šablon je pak možné velice rychle vytvářet hierarchie a topologie prostředí pro konkrétní systémy. Např. vytvořit Sharepoint Farmu o specifickém množství front-endů, clusterovaném SQL Serveru o daném množství nódů atd.
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="2" border="0" alt="2" src="/wp-content/uploads/2011/07/2_thumb.png" width="244" height="152" />](/wp-content/uploads/2011/07/2.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="2" border="0" alt="2" src="http://janmarek.eu/wp-content/uploads/2011/07/2_thumb.png" width="244" height="152" />](http://janmarek.eu/wp-content/uploads/2011/07/2.png)
 
 ### Citrix XenServer jako hostitel
 
 Nová verze VMM rozšiřuje podporované spravované virtualizační hostitele o Citrix XenServer. Vzhledem k použití profilů při konfiguraci hostitele můžeme pravděpodobně očekávat plynulejší a snadnější rozšiřitelnost o další hostitele či jejich nové verze.
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;margin:0;" title="3" border="0" alt="3" src="/wp-content/uploads/2011/07/3_thumb.png" width="230" height="244" />](/wp-content/uploads/2011/07/3.png)[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="4" border="0" alt="4" src="/wp-content/uploads/2011/07/4_thumb.png" width="262" height="116" />](/wp-content/uploads/2011/07/4.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;margin:0;" title="3" border="0" alt="3" src="http://janmarek.eu/wp-content/uploads/2011/07/3_thumb.png" width="230" height="244" />](http://janmarek.eu/wp-content/uploads/2011/07/3.png)[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="4" border="0" alt="4" src="http://janmarek.eu/wp-content/uploads/2011/07/4_thumb.png" width="262" height="116" />](http://janmarek.eu/wp-content/uploads/2011/07/4.png)
 
 &#160;
 
@@ -51,7 +51,7 @@ Virtualizací aplikací se zabývám již dlouhou dobu, a proto jsem netrpěliv�
 
 K vytvoření Server App-V balíčků slouží speciální Server Application Virtualization Sequencer a aplikace bude distribuována přímo z konzole VMM 2012 (v tuto chvíli lze distribuovat balíčky pouze Powershellem manuálně) na každý virtuální stroj, kde je nainstalován Server App-V klient.
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="5" border="0" alt="5" src="/wp-content/uploads/2011/07/5_thumb.png" width="244" height="132" />](/wp-content/uploads/2011/07/5.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="5" border="0" alt="5" src="http://janmarek.eu/wp-content/uploads/2011/07/5_thumb.png" width="244" height="132" />](http://janmarek.eu/wp-content/uploads/2011/07/5.png)
 
 ### Instalace Hyper-V a Patch Management
 
@@ -61,15 +61,14 @@ Další novinkou je přímá instalace operačního systému s rolí Hyper-V či
 
 Ve VMM 2008 jste pro automatický balancing virtuálních serverů mezi hostitele museli použít integraci se System Center Operations Managerem v rámci Performance and Resource Optimization (PRO). Ve verzi 2012 bude tuto funkci plnit již samotný VMM server díky Dynamic Optimization. Po konfiguraci parametrů je možné volitelně zapnout i automatickou dynamic optimization. 
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="6" border="0" alt="6" src="/wp-content/uploads/2011/07/6_thumb.png" width="244" height="103" />](/wp-content/uploads/2011/07/6.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="6" border="0" alt="6" src="http://janmarek.eu/wp-content/uploads/2011/07/6_thumb.png" width="244" height="103" />](http://janmarek.eu/wp-content/uploads/2011/07/6.png)
 
 Úspora energie je také jednou z důležitých témat v IT. SC VMM 2012 vám v této oblasti přináší automatické vypnutí hostitele, na kterém neběží žádné služby či virtuální servery (které mohou být automaticky „stěhovány“ pomocí zmíněné Dynamic Optimization). Konfigurovat můžete schedule, kdy se může provádět úspora energie.
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="7" border="0" alt="7" src="/wp-content/uploads/2011/07/7_thumb.png" width="244" height="111" />](/wp-content/uploads/2011/07/7.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="7" border="0" alt="7" src="http://janmarek.eu/wp-content/uploads/2011/07/7_thumb.png" width="244" height="111" />](http://janmarek.eu/wp-content/uploads/2011/07/7.png)
 
 ### Důležité změny ve verzi 2012
 
 V rámci Self-Service (S-S) provisioningu už nemusí S-S User přistupovat k prostředí přes S-S Portal. Nově může využít plnohodnotnou konzolu VMM, kde se mu zobrazí samozřejmě jen moduly, ke kterým má práva.
 
 Bohužel již není možné využít pro databázi VMM serveru SQL Server Express. Také nejsou již podporované hostitelé VMware ESX 3.0/ESXi 3.0 či Microsoft Virtual Server 2005.
-

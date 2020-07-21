@@ -14,7 +14,7 @@ tags:
   - Datascript Morning Talks
   - Hyper-V 2016
 ---
-<a href="http://www.datascript.cz/morning-talks/co-nas-ceka-v-microsoft-hyper-v-2016-a-co-to-znamena-v-praxi/" target="_blank"><img class="alignleft size-full wp-image-1038" src="/wp-content/uploads/2015/10/datascript-morning-talks.png" alt="datascript-morning-talks" width="119" height="212" /></a>**Datum:** 10.11.2015 9:00 &#8211; 11:30
+<a href="http://www.datascript.cz/morning-talks/co-nas-ceka-v-microsoft-hyper-v-2016-a-co-to-znamena-v-praxi/" target="_blank"><img class="alignleft size-full wp-image-1038" src="http://janmarek.eu/wp-content/uploads/2015/10/datascript-morning-talks.png" alt="datascript-morning-talks" width="119" height="212" /></a>**Datum:** 10.11.2015 9:00 &#8211; 11:30
 
 **Místo konání:** [Akademické konferenční centrum](http://www.akc-avcr.cz/) (Husova 4a, 110 00 Praha 1) &#8211; vchod z Jilské ulice přes recepci Filozofického a Sociologického ústavu AV ČR
 
@@ -35,4 +35,3 @@ Jak se na snídani dopravit?
 Registrace a více informací <a href="http://www.datascript.cz/morning-talks/co-nas-ceka-v-microsoft-hyper-v-2016-a-co-to-znamena-v-praxi/" target="_blank">ZDE</a>.
 
 Společně se společností DataScript se na vás těším!
-

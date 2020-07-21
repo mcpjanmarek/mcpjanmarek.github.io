@@ -22,4 +22,3 @@ Těším se na Vás!
 Více informací na http://www.hypercon.cz
 
 &nbsp;
-

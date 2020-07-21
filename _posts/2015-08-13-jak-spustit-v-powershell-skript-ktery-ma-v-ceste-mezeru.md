@@ -40,4 +40,3 @@ Vkládat to ale vždycky růčo do cesty je nuda a tak ještě možnost, jak aut
 <pre>Invoke-Expression $('C:\users\Jan\Desktop\test script.ps1'.replace(' ','` '))</pre>
 
 That&#8217;s it!
-

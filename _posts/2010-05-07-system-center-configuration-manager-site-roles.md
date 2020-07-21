@@ -72,4 +72,3 @@ categories:
   
   <p>
     System Health Validator Point (SHVP)<br />Tuto roli můžete použít pouze v případě, že používáte NPS (Network Policy Service), resp. NAP (Network Access Protection) technologii. SHVP je tedy možné nainstalovat pouze na Windows Server 2008 s NPS. Následně SHVP kontroluje zdraví NAP-podporujících klientů a reportuje výsledky. Protože tyto výstupy jsou dále zasílány do Active Directory Domain Services a replikovány do Systems Management kontejneru, musíte mít pro tuto roli rozšířené Active Directory schéma pro ConfigMgr. <br />Na základě této role, se pak dá použít automatická karanténa klientů do oddělené site, pokud nesplňují určité požadavky apod.</div>
-

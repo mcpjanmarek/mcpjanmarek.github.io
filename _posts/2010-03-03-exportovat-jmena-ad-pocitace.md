@@ -42,4 +42,3 @@ categories:
     Další informace spustit dsquery /? a pro podrobnější informace o objektu kombinovat například s dsget&#8230;
   </div>
 </div>
-

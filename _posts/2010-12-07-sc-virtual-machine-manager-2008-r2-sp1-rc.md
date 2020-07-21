@@ -17,4 +17,3 @@ categories:
 System Center team announced **SCVMM 2008 R2 Service Pack 1 Release Candidate** is now ready to download from Microsoft Connect.<a href="https://connect.microsoft.com/site799" target="_blank"><br /> </a>
 
 This release adds support for Windows Server 2008 R2 SP1 RC to SCVMM. Microsoft added the necessary properties and controls to allow you to create and manage Dynamic Memory and RemoteFX enabled on virtual machines on Windows Server 2008 R2 SP1 Hyper-V hosts.
-

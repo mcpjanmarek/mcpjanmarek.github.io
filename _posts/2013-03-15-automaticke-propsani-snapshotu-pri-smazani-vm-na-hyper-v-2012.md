@@ -18,4 +18,3 @@ Při smazání VM přes Hyper-V Manager dojde pouze k odstranění konfiguračn�
 Ale! Pokud smažete VM, která měla jeden či více snapshotů a obsahovala tedy několik diferenčních VHD(X) souborů, pak se okamžitě spustí jejich merge. A co mi na tom vadí? Jednak nepotřebuji, aby se merge prováděl, když už mě VM nezajímá (proto ji mažu), ale hlavně nemůžu tyto VHD(X) soubory smazat, protože jsou zamknuté službou Hyper-V, protože probíhá právě zmiňovaný merge. Musím tedy čekat až se merge dokončí. Jeho průběh můžete sledovat narůstajícím parent diskem VM.
 
 Podle mě dost nešťastně nastavený proces&#8230;
-

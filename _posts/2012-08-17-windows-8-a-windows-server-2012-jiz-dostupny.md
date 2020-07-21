@@ -24,4 +24,3 @@ Pro ty z vás, kteří používají nebo plánují nasadit **System Center 2012*
 Windows Server 2012 je dle mého testování již také dostupný na Microsoft cloud službě **Azure Virtual Machines**.
 
 Můj tablet už samozřejmě včera prošel reinstalací na Windows 8 a Office 2013 Preview a mohu zatím sdělit pozitivní feedback.
-

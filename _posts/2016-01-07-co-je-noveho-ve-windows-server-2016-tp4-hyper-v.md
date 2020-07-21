@@ -58,4 +58,3 @@ Už v listopadu 2015 byl uvolněn Technical Preview 4 pro Windows Server 2016. D
 Průbežně sem přihazuji další features, tak si klidně post někam uložte a mrkněte za měsíc nebo tak znovu.
 
 A jestli vás to zajímá více, tak přijďte na <a href="http://www.hypercon.cz" target="_blank">HYPERCON</a>!!!
-

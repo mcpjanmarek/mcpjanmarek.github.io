@@ -38,4 +38,3 @@ Podtrženo a sečteno, mým cílem je teď naplno oblast IT bezpečnosti, které
 Odteď tedy už jen příspěvky o bezpečnosti? To určitě ne, jelikož nejsem najednou fulltime &#8222;bezpečák&#8220; a dlouho nebudu.
 
 Na viděnou v září na HackerFestu a to jak v Praze, tak v Bratislavě!
-

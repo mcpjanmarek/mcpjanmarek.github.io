@@ -21,4 +21,3 @@ Oficiální zpráva v EN:
 > System Center Data Protection Manager (DPM) is an established backup product for protecting Microsoft on-premise workloads. As our customers move some or all of their infrastructure to Azure, a key ask is the ability to back up workloads now running in Azure. In order to cater to this need, we now support DPM running in an Azure IaaS VM, to protect Azure IaaS workloads.
 
 Více info se dočtete <a href="http://blogs.technet.com/b/dpm/archive/2014/09/02/azure-iaas-workload-protection-using-data-protection-manager.aspx" target="_blank">zde</a>.
-

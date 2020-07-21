@@ -16,4 +16,3 @@ categories:
 Pokud byste někdy vytvářeli management pack pro monitoring přítomnosti klíče/hodnoty v registrech, může se vám hodit následující link 🙂
 
 <http://msdn.microsoft.com/en-us/library/ee809358.aspx>
-

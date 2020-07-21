@@ -17,5 +17,4 @@ Dříve bylo nutné provést konfiguraci na úrovni virtuálního stroje. Tento 
 
 Nově tedy přímo v sekci Networks je dostupná možnost **Live Migration Settings&#8230;**
 
-[<img class="alignleft size-full wp-image-520" title="winsrv2k12_livemigrationnetwork" src="/wp-content/uploads/2012/07/LM.png" alt="winsrv2k12_livemigrationnetwork" width="763" height="726" />](/wp-content/uploads/2012/07/LM.png)
-
+[<img class="alignleft size-full wp-image-520" title="winsrv2k12_livemigrationnetwork" src="http://janmarek.eu/wp-content/uploads/2012/07/LM.png" alt="winsrv2k12_livemigrationnetwork" width="763" height="726" />](http://janmarek.eu/wp-content/uploads/2012/07/LM.png)

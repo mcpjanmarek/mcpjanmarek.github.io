@@ -19,4 +19,3 @@ To už mě dost vyděšilo, protože mám jen jeden exchange server a proto nem�
 Co teď? Už jsem si představoval, jak deinstaluju Exchange server (natvrdo, přes adsiedit apod., protože neudělám normální uninstall). Napadlo mě ještě ale vzít applicationhost.config z C:\inetpub\history. Tak jsem vzal nějaký z data, kdy vím, že mi Exchange jel, překopíroval do C:\Windows\System32\InetSrv\Config a rozjelo se to. ECP jede, Outlooky se připojí, maily chodí&#8230;
 
 Jinak ten Exchange Server byl samozřejmě virtualizovaný, na Hyper-V 2012 R2. Na disku nebylo úplně moc místa (je to lab, tak to moc nehlídám) &#8211; asi tak 2GB, takže předpokládám, že se mi to IIS poškodilo kvůli tomu, ale to jsou jen mé domněnky. V této oblasti nejsem moc specialista 🙂
-

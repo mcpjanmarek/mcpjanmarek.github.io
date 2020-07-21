@@ -30,4 +30,3 @@ categories:
     Nikdy nepodceňujte to! Správně nakonfigurovaný server DNS je základní věci pro mnoho dalších služeb.
   </div>
 </div>
-

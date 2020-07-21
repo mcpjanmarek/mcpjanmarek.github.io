@@ -22,4 +22,3 @@ categories:
     Staci kdyz na lokalnim stroji date vlastnosti My Computer -> zalozku Hardware -> Driver signing a zvolte Ignore &#8211; Install the software anyway and don&#8217;t ask for my approval.<br />V Group Policy (Windows Server 2008) toto nastaveni zmenite v User Config -> Policies -> Adm templates -> System -> Driver Installation -> polozka "Code signing for device drivers" -> povolte policy a nastavte hodnotu na Ignore.
   </p>
 </div>
-

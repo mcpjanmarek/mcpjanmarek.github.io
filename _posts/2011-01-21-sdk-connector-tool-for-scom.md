@@ -18,4 +18,3 @@ Pokud máte ve SCOMu connectory, které již nepotřebujete, pak asi řešíte, 
 Na webu SystemCenterCentral je ovšem ke stažení tool s GUI, které se o vše postará za vás. Kromě mazání můžete i konektory i vytvářet. Pro stažení je nutná registrace&#8230;:
 
 http://www.systemcentercentral.com/Downloads/DownloadsDetails/tabid/144/IndexID/12581/Default.aspx
-

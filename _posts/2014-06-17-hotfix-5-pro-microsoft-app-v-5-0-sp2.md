@@ -21,4 +21,3 @@ Tento hotfix řeší následující problémy:
   * PackageStoreAccessControl podpora již není v App-V 5.0 SP2 podporován
 
 Více info a link ke stažení <a href="http://support.microsoft.com/kb/2963211" target="_blank">zde</a>.
-

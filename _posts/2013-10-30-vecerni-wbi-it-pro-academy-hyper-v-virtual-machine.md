@@ -13,7 +13,7 @@ categories:
   - WBI Systems
   - Windows Server 2012 R2
 ---
-[<img class="aligncenter size-full wp-image-660" alt="MSITProAcademy" src="/wp-content/uploads/2013/10/MSITProAcademy.jpg" width="464" height="65" />](/wp-content/uploads/2013/10/MSITProAcademy.jpg)
+[<img class="aligncenter size-full wp-image-660" alt="MSITProAcademy" src="http://janmarek.eu/wp-content/uploads/2013/10/MSITProAcademy.jpg" width="464" height="65" />](http://janmarek.eu/wp-content/uploads/2013/10/MSITProAcademy.jpg)
 
 Na této přednášce večerní IT Pro Academy se budeme zabývat vytvářením a konfigurací virtuálních počítáčů na platformě Microsoft Hyper-V 2012 R2.
 
@@ -24,4 +24,3 @@ Datum a čas konání: 27.11.2013, 17:30 &#8211; xx:xx (konec není časově ome
 Místo konání: WBI Inovační centrum, Vyskočilova 1461/2a, Praha 4 (BB Centrum, budova Alpha, 4. patro)
 
 Registrace a více informací <a title="WBI IT Pro Academy 2013 - 001: Hyper-V Virtual Machine" href="http://learning.wbi.cz/kurzy/113-30-hyperv-virtual-machine.aspx" target="_blank">zde</a>.
-

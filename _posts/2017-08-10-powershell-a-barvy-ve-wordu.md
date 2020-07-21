@@ -28,4 +28,3 @@ V rámci některých našich projektů pracujeme se zápisem dat automatizovaně
 Convert-RGB2WDColor -Red 255 -Green 255 -Blue 255</pre>
 
 &nbsp;
-

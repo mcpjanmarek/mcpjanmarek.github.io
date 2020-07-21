@@ -18,4 +18,3 @@ tags:
 V říjnu jsem měl na WUGu v Praze přednášku na <a href="http://wug.cz/praha/akce/884-Microsoft-Hyper-V-2016-Internals" target="_blank">Hyper-V Internals</a>, ale nestihl jsem samozřejmě probrat vše, co jsem chtěl. Díky WUGu se tedy podařilo najít termín na pokračování, kde se dozvíte víc o Hyper-V Clusteru, Hyper-V Replica, Shielded VMs a když zbyde čas tak se určitě ještě mnoho témat najde. Více info a registrace <a href="http://wug.cz/praha/akce/903-Microsoft-Hyper-V-2016-Internals-II-cast" target="_blank">zde</a>.
 
 Těším se na vás a doufám, že vás přijde opět hodně! _Možná přinesu i nějaké dárky 😉_
-

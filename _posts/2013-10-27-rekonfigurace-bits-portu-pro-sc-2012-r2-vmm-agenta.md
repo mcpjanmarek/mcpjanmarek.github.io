@@ -17,10 +17,9 @@ Jak změnit port pro BITS, na kterém VMM agent posílá soubory? Celá konfigur
 > HKLM\Software\Microsoft\Microsoft System Center Virtual Machine Manager Agent\Setup\BITSTcpPort
 
 <p style="text-align: center;">
-  <a href="http://janmarek.eu/wp-content/uploads/2013/10/bitsportvmm.png"><img class="wp-image-621 aligncenter" alt="bitsportvmm" src="/wp-content/uploads/2013/10/bitsportvmm.png" width="589" height="130" /></a>
+  <a href="http://janmarek.eu/wp-content/uploads/2013/10/bitsportvmm.png"><img class="wp-image-621 aligncenter" alt="bitsportvmm" src="http://janmarek.eu/wp-content/uploads/2013/10/bitsportvmm.png" width="589" height="130" /></a>
 </p>
 
 Hodnotu změňte na jakýkoli volný port, restartujte služby VMM Management Serveru a nakonec samotného VMM Agenta na spravovaném serveru.
 
 Kompletní soupis portů používaných VMM naleznete <a title="Ports and Protocols for VMM" href="http://technet.microsoft.com/en-us/library/gg710871.aspx" target="_blank">zde</a>.
-

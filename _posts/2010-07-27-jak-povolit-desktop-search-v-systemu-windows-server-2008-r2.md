@@ -16,11 +16,10 @@ categories:
   </p>
   
   <p>
-    <a href="http://janmarek.eu/wp-content/uploads/2010/10/image5b45d.png" rel="WLPP"><img style="display: inline; border: 0;" title="obrázek" src="/wp-content/uploads/2010/10/image5b45d.png?w=300" alt="obrázek" width="365" height="359" align="left" border="0" /></a>
+    <a href="http://janmarek.eu/wp-content/uploads/2010/10/image5b45d.png" rel="WLPP"><img style="display: inline; border: 0;" title="obrázek" src="http://janmarek.eu/wp-content/uploads/2010/10/image5b45d.png?w=300" alt="obrázek" width="365" height="359" align="left" border="0" /></a>
   </p>
   
   <p>
     To je ono! <img style="border-style: none;" src="https://qocjma.blu.livefilestore.com/y1mE9-R3_xuWC88wHWhVC92BIWWq7mVGdcUrLTUbFmDhsBF9VNs7tTav9SUPgFg2VgD4OTO4ZlgLXIv0FlP-Ox7FGc3rH4EGhOJnXKvWpaHmOj107oCE7-CK_bVraLbJLSubRK2QtTuIYN8BqBuNJ1drw/wlEmoticon-smile[2] 5EFC0927.png?download&psid=1" alt="Úsměv" />
   </p>
 </div>
-

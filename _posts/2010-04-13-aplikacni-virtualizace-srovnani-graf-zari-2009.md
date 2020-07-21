@@ -19,4 +19,3 @@ categories:
     <a href="http://virtualfuture.info/wp-content/uploads/2009/08/ApplicationVirtCompChart2009.pdf" target="_blank" rel="nofollow">Aplikační virtualizace srovnání graf (září 200</a>9) je graf.
   </div>
 </div>
-

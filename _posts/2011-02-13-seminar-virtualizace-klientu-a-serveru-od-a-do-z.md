@@ -20,4 +20,3 @@ categories:
   - Nezařazené
 ---
 Tento čtvrtek 17.2.2011 mám v pražském Microsoftu (tentokrát budova Beta) jednu ze svých přednášek v rámci Microsoft Roadshow a sice <span style="text-decoration:underline;">Virtualizace klientů a serverů od A do Z</span>. Kdo jste se tedy ještě neregistroval na tento ZDARMA seminář zde <a href="http://learning.wbi.cz/kurzy/9-virtualizace-klientu-a-serveru-od-a-do-z.aspx" target="_blank">http://learning.wbi.cz/kurzy/9-virtualizace-klientu-a-serveru-od-a-do-z.aspx</a>, vzhůru do toho! A protože nám má ve středu vyjít SP1 pro Windows Server 2008 R2, přidám speciálně o trochu více informací ohledně nových SP1 cool technologiích 🙂
-

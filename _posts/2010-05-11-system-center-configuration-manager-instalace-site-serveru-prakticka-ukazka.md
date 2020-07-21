@@ -39,7 +39,7 @@ categories:
   </p>
   
   <p>
-    o Vytvořit jednotlivé Address pro podřízené BR2 a PRG a konfigurovat tok dat<a href="http://janmarek.eu/wp-content/uploads/2010/10/15b85d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;margin-left:0;border-top:0;margin-right:0;border-right:0;" title="1" border="0" alt="1" align="right" src="/wp-content/uploads/2010/10/15b85d.png?w=211" width="314" height="445" /></a>
+    o Vytvořit jednotlivé Address pro podřízené BR2 a PRG a konfigurovat tok dat<a href="http://janmarek.eu/wp-content/uploads/2010/10/15b85d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;margin-left:0;border-top:0;margin-right:0;border-right:0;" title="1" border="0" alt="1" align="right" src="http://janmarek.eu/wp-content/uploads/2010/10/15b85d.png?w=211" width="314" height="445" /></a>
   </p>
   
   <p>
@@ -91,11 +91,10 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://janmarek.eu/wp-content/uploads/2010/10/25b45d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 20px 0 0;" title="2" border="0" alt="2" align="left" src="/wp-content/uploads/2010/10/25b45d.png?w=257" width="315" height="350" /></a> Jak jste si určitě všimli, pro distribuci samotných klientů ConfigMgr jsem použil metodu Client Push Installation (s discovery pomocí AD System Discovery). Samozřejmě, že je možné např. využít i Software Distribution deployment v Group Policy. Pro instalaci se použije ccmsetup.msi, který najdete v instalačním adresáři ConfigMgr na site serveru v podadresáři bini386. Dále je zásadní použít ADM template ConfigMgr2007Installation.adm pro nastavení instalačních parametrů, který naleznete na instalačním médiu ConfigMgr v adresáři ToolsConfigMgrAdmTemplates. A abychom vyhověli našemu scénáři, je nutne v parametrech použít minimálně /mp: a v něm nastavit pro příslušnou politiku příslušný management point odkud stahovat zdrojové soubory.
+    <a href="http://janmarek.eu/wp-content/uploads/2010/10/25b45d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 20px 0 0;" title="2" border="0" alt="2" align="left" src="http://janmarek.eu/wp-content/uploads/2010/10/25b45d.png?w=257" width="315" height="350" /></a> Jak jste si určitě všimli, pro distribuci samotných klientů ConfigMgr jsem použil metodu Client Push Installation (s discovery pomocí AD System Discovery). Samozřejmě, že je možné např. využít i Software Distribution deployment v Group Policy. Pro instalaci se použije ccmsetup.msi, který najdete v instalačním adresáři ConfigMgr na site serveru v podadresáři bini386. Dále je zásadní použít ADM template ConfigMgr2007Installation.adm pro nastavení instalačních parametrů, který naleznete na instalačním médiu ConfigMgr v adresáři ToolsConfigMgrAdmTemplates. A abychom vyhověli našemu scénáři, je nutne v parametrech použít minimálně /mp: a v něm nastavit pro příslušnou politiku příslušný management point odkud stahovat zdrojové soubory.
   </p>
   
   <p>
     V průběhu instalace celého systému ConfigMgr i klientů (ale i při následné správě) stále kontrolujte stav serverů a komponent v konzole ConfigMgr v položce System Status – Site Status.
   </p></p>
 </div>
-

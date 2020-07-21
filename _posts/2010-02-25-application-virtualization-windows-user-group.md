@@ -18,4 +18,3 @@ tags:
 <div id="msgcns!6E7B9216726D07B8!257" class="bvMsg">
   Our seminar about Application Virtualization was moved on March 18th 2010. For more information go to <a href="http://wug.cz/Aktuality/tabid/36/ctl/Detail/mid/492/ItemId/325/language/cs-CZ/Default.aspx">WUG</a>. See you there!
 </div>
-

@@ -14,4 +14,3 @@ tags:
   - hypercon
 ---
 Tak se mi konečně podařilo sesbírat prezentace a skripty z HYPERCONu 2.0 a hodil jsem rovnou na web. Ještě jednou díky všem za účast a odkaz na soubor najdete v sekci Ke stažení.
-

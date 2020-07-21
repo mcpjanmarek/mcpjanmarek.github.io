@@ -14,7 +14,7 @@ categories:
   - Systems Management Server
 ---
 <div id="msgcns!6E7B9216726D07B8!338" class="bvMsg">
-  <pre><a href="http://janmarek.eu/wp-content/uploads/2010/10/sms20035b45d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 15px 0 0;" title="sms2003" border="0" alt="sms2003" align="left" src="/wp-content/uploads/2010/10/sms20035b45d.png?w=300" width="240" height="59" /></a></pre>
+  <pre><a href="http://janmarek.eu/wp-content/uploads/2010/10/sms20035b45d.png" rel="WLPP"><img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 15px 0 0;" title="sms2003" border="0" alt="sms2003" align="left" src="http://janmarek.eu/wp-content/uploads/2010/10/sms20035b45d.png?w=300" width="240" height="59" /></a></pre>
   
   <p>
     1. instalace OS na nový Windows Server + aplikace nejnovějších WSUS patchů
@@ -156,4 +156,3 @@ categories:
     http://technet.microsoft.com/en-us/sms/bb676776.aspx &#8211; v SCCM 2007 je již částečně intergrována jakožto role Fallback Status Point.
   </p>
 </div>
-

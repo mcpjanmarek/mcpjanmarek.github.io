@@ -19,4 +19,3 @@ categories:
   - Windows Server 2012
 ---
 Jeffrey Snover předevčírem oznámil, že další &#8222;milestone&#8220; příštího operačního systému Windows bude uveden v prvním týdnu v červnu tohoto roku. Bude se jednat o Windows 8 Release Preview a Windows Server 2012 Release Candidate. Krátce poté bychom se měli také dočkat RTM verze Service Packu 1 pro System Center 2012&#8230;
-

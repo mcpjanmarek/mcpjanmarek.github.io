@@ -21,4 +21,3 @@ Nemohl jsem si odpustit ty tři písmena napsat už do názvu tohoto postu. Lice
 Ještě stále si myslíte, že se vyhnete Microsoft Azure? Že mít infra v cloudu pro Vás není (nebude) výhodné? Tak keep dreaming&#8230; (jedině tak změnit platformu&#8230;)
 
 &#8230; Hyper-V je na vzestupu, ale tohle ho pošle zas do kolen &#8211; díky Microsofte! 🙁
-

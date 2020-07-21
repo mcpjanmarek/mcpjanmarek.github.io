@@ -28,17 +28,17 @@ Jeho syntaxe je popsaná v [dokumentaci](http://technet.microsoft.com/en-us/libr
 
 I při správné syntax a spuštění pod právy administrátora (pozor také na UAC) se dočkáte výstupu Access Denied.
 
-[<img class="alignleft size-full wp-image-506" style="margin: 7px 14px 6px 0; display: inline; float: left;" title="adtadmin_access_denied" src="/wp-content/uploads/2012/07/adtadmin_access_denied.png" alt="" width="590" height="91" align="left" />](/wp-content/uploads/2012/07/adtadmin_access_denied.png)
+[<img class="alignleft size-full wp-image-506" style="margin: 7px 14px 6px 0; display: inline; float: left;" title="adtadmin_access_denied" src="http://janmarek.eu/wp-content/uploads/2012/07/adtadmin_access_denied.png" alt="" width="590" height="91" align="left" />](http://janmarek.eu/wp-content/uploads/2012/07/adtadmin_access_denied.png)
 
 Problém je v tom, že ve výchozí instalaci a nastavení beží ACS služba pod Network Service účtem. Při spuštění ADTadmin příkazu se snaží tato služba zapsat hodnotu do klíče HKLMSYSTEMCurrentControlSetservicesAdtServerParametersDbQueueQuery, kam nemá práva.
 
-[<img class="alignleft size-full wp-image-507" style="margin: 7px 14px 6px 0; display: inline; float: left;" title="adtadmin_regedit" src="/wp-content/uploads/2012/07/adtadmin_regedit.png" alt="" width="590" height="377" align="left" />](/wp-content/uploads/2012/07/adtadmin_regedit.png)
+[<img class="alignleft size-full wp-image-507" style="margin: 7px 14px 6px 0; display: inline; float: left;" title="adtadmin_regedit" src="http://janmarek.eu/wp-content/uploads/2012/07/adtadmin_regedit.png" alt="" width="590" height="377" align="left" />](http://janmarek.eu/wp-content/uploads/2012/07/adtadmin_regedit.png)
 
 &nbsp;
 
 Stačí tedy na úrovni klíče Parameters změnit nastavení security pro uživatele Network Service na Full Control.
 
-[<img class="alignleft size-full wp-image-508" style="margin: 7px 14px 6px 0; display: inline; float: left;" title="adtadmin_regedit_permissions" src="/wp-content/uploads/2012/07/adtadmin_regedit_permissions.png" alt="" width="363" height="412" align="left" />](/wp-content/uploads/2012/07/adtadmin_regedit_permissions.png)
+[<img class="alignleft size-full wp-image-508" style="margin: 7px 14px 6px 0; display: inline; float: left;" title="adtadmin_regedit_permissions" src="http://janmarek.eu/wp-content/uploads/2012/07/adtadmin_regedit_permissions.png" alt="" width="363" height="412" align="left" />](http://janmarek.eu/wp-content/uploads/2012/07/adtadmin_regedit_permissions.png)
 
 &nbsp;
 
@@ -66,5 +66,4 @@ Stačí tedy na úrovni klíče Parameters změnit nastavení security pro uživ
 
 Po opětovném spuštění příkazu ADTadmin již proběhne vše vpořádku a v registrech můžete vidět nastavenou query
 
-[<img class="alignleft size-full wp-image-509" style="margin: 7px 14px 6px 0; display: inline; float: left;" title="adtadmin_final" src="/wp-content/uploads/2012/07/adtadmin_final.png" alt="" width="590" height="383" align="left" />](/wp-content/uploads/2012/07/adtadmin_final.png)
-
+[<img class="alignleft size-full wp-image-509" style="margin: 7px 14px 6px 0; display: inline; float: left;" title="adtadmin_final" src="http://janmarek.eu/wp-content/uploads/2012/07/adtadmin_final.png" alt="" width="590" height="383" align="left" />](http://janmarek.eu/wp-content/uploads/2012/07/adtadmin_final.png)

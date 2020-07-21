@@ -21,4 +21,3 @@ Pak už jen přidáváte jednotlivé DNS záznamy, které se jako objekty v Azur
 Na konec jsem už jen rekonfiguroval směrování na správné NS u mého poskytovatele domény a netrvalo to ani těch klasických 24h a už jsem jel z Azure.
 
 <img class=" size-full wp-image-1752 alignleft" src="/wp-content/uploads/2017/08/Azure-DNS-JanMarekEU.png" alt="Azure-DNS-JanMarekEU" width="859" height="673" srcset="/wp-content/uploads/2017/08/Azure-DNS-JanMarekEU.png 859w, /wp-content/uploads/2017/08/Azure-DNS-JanMarekEU-300x235.png 300w, /wp-content/uploads/2017/08/Azure-DNS-JanMarekEU-768x602.png 768w" sizes="(max-width: 859px) 100vw, 859px" />
-

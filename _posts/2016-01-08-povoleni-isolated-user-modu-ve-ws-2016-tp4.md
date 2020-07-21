@@ -19,4 +19,3 @@ IUM povolíte třeba PowerShellem takto:
 New-Item -Path HKLM:\SYSTEM\CurrentControlSet\Control\DeviceGuard -Force
 New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Control\DeviceGuard -Name EnableVirtualizationBasedSecurity -Value 1 -PropertyType DWord –Force
 Restart-Computer</pre>
-

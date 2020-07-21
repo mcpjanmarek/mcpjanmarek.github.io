@@ -43,4 +43,3 @@ Poměrně často to na kurzech řeším a proto zde publikuji pro referenci.
 /log+ &#8211; výstup je zaznamenán do logu, který se při opakovaném spuštění nepřepisuje, ale doplňuje
 
 /tee – výstup je vypisován současně na konzoli i do logu
-

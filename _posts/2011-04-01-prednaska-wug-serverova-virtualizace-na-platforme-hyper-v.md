@@ -22,4 +22,3 @@ Místo: Erudic, Brtnická 25, Jihlava
 Tento unikátní seminář Vás provede všemi prvky serverové virtualizace na platformě Hyper-V. Vše samozřejmě zaměřeno na aktuální technologii 2008 R2 SP1. Kompletní informace jasně, přehledně a do hloubky.
 
 Více informací na stránkách Windows User Group: <http://www.wug.cz/jihlava/akce/386-Serverova-virtualizace-na-platforme-Hyper-V>
-

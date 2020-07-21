@@ -45,4 +45,3 @@ tags:
             <p style="margin: 0;">
               <strong><span style="font-size: 10pt;">Navigate to Microsoft Connect today and download the ConfigMgr07 R3 Beta. Please review the Release Notes before performing any installation and the help (chm) file for specific deployment and supportability guidance.</span></strong>
             </p></div>
-

@@ -38,4 +38,3 @@ _C:\WINDOWS\system32>**bcdedit /set {<span style="color: #ff0000;">6bbd723f-324f
 _The operation completed successfully._
 
 That&#8217;s all 🙂
-

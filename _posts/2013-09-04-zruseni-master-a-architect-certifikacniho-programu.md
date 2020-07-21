@@ -32,4 +32,3 @@ Sledujte blíže vývoj:
 <https://connect.microsoft.com/SQLServer/feedback/details/799431/please-dont-get-rid-of-the-mcm-and-mca-programs> 
 
 <http://www.theucarchitects.com/1213>
-

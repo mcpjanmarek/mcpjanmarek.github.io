@@ -14,4 +14,3 @@ categories:
   - SC Virtual Machine Manager
 ---
 Pro rekonfiguraci SSP na jiný management server stačí pouze změnit hodnotu &#8222;VMMServerName&#8220; v klíči &#8222;HKLMSOFTWAREMicrosoftMicrosoft System Center Virtual Machine Manager Self-Service PortalSettings&#8220; na FQDN nového management server a restartovat službu SSP.
-

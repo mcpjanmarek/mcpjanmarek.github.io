@@ -28,7 +28,7 @@ categories:
   </p>
   
   <p>
-    Microsoft má 3 držáky na konci, ale musí existovat pouze 2 <img style="border-style: none;" src="/wp-content/uploads/2010/10/wlemoticon-winkingsmile5b25d.png?w=19" alt="Mrkající Veselý obličej" />
+    Microsoft má 3 držáky na konci, ale musí existovat pouze 2 <img style="border-style: none;" src="http://janmarek.eu/wp-content/uploads/2010/10/wlemoticon-winkingsmile5b25d.png?w=19" alt="Mrkající Veselý obličej" />
   </p>
   
   <p>
@@ -40,7 +40,6 @@ categories:
   </p>
   
   <p>
-    Microsoft má 2 držáky na konci, ale musí existovat pouze 1 <img style="border-style: none;" src="/wp-content/uploads/2010/10/wlemoticon-winkingsmile5b25d.png?w=19" alt="Mrkající Veselý obličej" />
+    Microsoft má 2 držáky na konci, ale musí existovat pouze 1 <img style="border-style: none;" src="http://janmarek.eu/wp-content/uploads/2010/10/wlemoticon-winkingsmile5b25d.png?w=19" alt="Mrkající Veselý obličej" />
   </p>
 </div>
-

@@ -18,5 +18,4 @@ categories:
 ---
 Se &#8222;smajlem&#8220; se hned cítím lépe 🙂
 
-<figure id="attachment_364" aria-describedby="caption-attachment-364" style="width: 590px" class="wp-caption alignleft">[<img class="size-full wp-image-364" title="Windows Server 8 BSOD" src="/wp-content/uploads/2012/01/ws8bsod.png" alt="Windows Server 8 BSOD" width="590" height="440" />](/wp-content/uploads/2012/01/ws8bsod.png)<figcaption id="caption-attachment-364" class="wp-caption-text">Windows Server 8 BSOD</figcaption></figure>
-
+<figure id="attachment_364" aria-describedby="caption-attachment-364" style="width: 590px" class="wp-caption alignleft">[<img class="size-full wp-image-364" title="Windows Server 8 BSOD" src="http://janmarek.eu/wp-content/uploads/2012/01/ws8bsod.png" alt="Windows Server 8 BSOD" width="590" height="440" />](http://janmarek.eu/wp-content/uploads/2012/01/ws8bsod.png)<figcaption id="caption-attachment-364" class="wp-caption-text">Windows Server 8 BSOD</figcaption></figure>

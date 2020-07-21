@@ -24,4 +24,3 @@ Co se týče funkcí, tak obě licence jsou technologicky naprosto stejné! Tedy
 Stále bude dostupný výkonný Microsoft hypervisor zdarma &#8211; Microsoft Hyper-V Server 2012.
 
 **!Update!** http://janmarek.eu/windows-8-a-windows-server-2012-jiz-dostupny/
-

@@ -30,4 +30,3 @@ Chyba:
 > Check that WS-Management service is installed and running on server lsghv10.learning.local. For more information use the command &#8222;winrm helpmsg hresult&#8220;. If lsghv10.learning.local is a host/library/update server or a PXE server role then ensure that VMM agent is installed and running. Refer to http://support.microsoft.com/kb/2742275 for more details.
 
 Po mnoha různých pokusech o opravu jsem zjistil, že v lokálních adminech na Hyper-V hostiteli je účet služby VMM management serveru (ano, ten tam po instalaci má být), ale zároveň ještě stále RunAs účet použitý pro instalaci (ten tam po instalaci být nemá). Odebral jsem ho tedy a vše nyní funguje. Pravděpodobně se jedná o bug.
-

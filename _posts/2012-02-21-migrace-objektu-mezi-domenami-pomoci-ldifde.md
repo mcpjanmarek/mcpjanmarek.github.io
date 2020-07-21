@@ -25,4 +25,3 @@ Pokud byste rádi přenesli objekty (user, group,..) mezi doménami exportem/imp
 Vytvořil jsem tedy powershell skript, který projde takovýto soubor, najde všechny base64 encoded DN atributy, rozkóduje je, změní název domény, zakóduje a zapíše zpět do souboru. Ten pak může použít pro import.
 
 Skript jsem publikoval na Technet Gallery a je k dispozici zde: <http://gallery.technet.microsoft.com/scriptcenter/Powershell-script-to-33887eb2>
-

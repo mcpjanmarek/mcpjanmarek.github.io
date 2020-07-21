@@ -24,4 +24,3 @@ tags:
     <a href="http://virtualfuture.info/wp-content/uploads/2009/08/ApplicationVirtCompChart2009.pdf" target="_blank" rel="nofollow">Application Virtualization comparison chart (September 2009)</a> is the chart.
   </div>
 </div>
-

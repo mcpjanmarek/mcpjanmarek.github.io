@@ -43,8 +43,7 @@ permalink: /about/
    * Certified ScrumMaster
 
 ## MCP Transcript
-[MCP Transcript](https://mcptnc.microsoft.com/transcriptdownload.aspx)
-
+   * Odkaz na MCP Transcript: https://mcptnc.microsoft.com/transcriptdownload.aspx
    * Transcript ID: 845159
    * Access Code: 86071286
 

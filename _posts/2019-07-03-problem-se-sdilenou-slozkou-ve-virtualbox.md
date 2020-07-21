@@ -15,8 +15,7 @@ Už několikrát jsem na to narazil a pokaždé to zapomenu, takže spíše pozn
 
 Stačí jen uživatele přidat do správné skupiny a hned to jede:
 
-<blockquote class="wp-block-quote">
-  <p>
-    sudo usermod -aG vboxsf <userlogin>
-  </p>
-</blockquote>
+{% highlight bash %}
+sudo usermod -aG vboxsf <userlogin>
+{% endhighlight %}
+

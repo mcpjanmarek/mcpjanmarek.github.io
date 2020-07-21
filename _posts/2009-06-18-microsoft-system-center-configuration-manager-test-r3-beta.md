@@ -18,3 +18,4 @@ categories:
     <img style="display:inline;margin:0 10px 0 0;" alt="System Center Configuration Manager" align="left" src="http://i.microsoft.com/global/systemcenter/en/us/PublishingImages/SysCnt-ConfigMgr_80.png" width="310" height="80" />Včera jsem na svém ostře-testovacím 🙂 prostředí chtěl nasadit R3 beta. Bohužel mi to, ale po spuštění napsalo, že betu lze nainstalovat pouze na evaluation SP2 prostředí.
   </p>
 </div>
+

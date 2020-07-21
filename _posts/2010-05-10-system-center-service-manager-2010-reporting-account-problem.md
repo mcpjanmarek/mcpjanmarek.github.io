@@ -22,3 +22,4 @@ categories:
     Včera jsem při instalaci Service Manageru 2010 narazil na problém při specifikaci uživatele pro Reporting Service. Vytvořil jsem Active Directory uživatele s názvem SCSM_ReportingAccount. Po zadání tohoto uživatele s heslem do instalátoru a testu connection na mne vyskočila chyba. Zkoušel jsem znovu heslo, resetoval heslo v AD, dal uživatele jako lokálního administrátora a stále nic. Po 2 hodinách bádání a zkoušení mne napadla myšlenka, co když je uživatelské jméno příliš dlouhé. A opravdu to tak je. Přejmenoval jsem uživatele na SCSM_RepAccount a vše proběhlo úspěšně. Takový problém bych teda nečekal…
   </p>
 </div>
+

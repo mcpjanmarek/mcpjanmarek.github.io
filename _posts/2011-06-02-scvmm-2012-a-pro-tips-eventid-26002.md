@@ -31,3 +31,4 @@ Priznaky jsou predevsim nefunkcni PRO a Dynamic Optimization v SCVMM 2012.
 Resenim je dat uctu, pod kterym bezi Health Service na SCVMM Serveru, administratorska prava na managovanych Hyper-V serverech. Pokud tedy Health Service bezi pod Local Systemem, pak pridejte ucet serveru SCVMM do Local Administrators na Hyper-V Serverech.
 
 Dle hledanych informaci na webu, jsem v tuto chvili asi prvni na svete, ktery toto popisuje na webu&#8230;
+

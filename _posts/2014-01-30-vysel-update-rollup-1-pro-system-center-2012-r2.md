@@ -22,3 +22,4 @@ Konečně tu je UR1 pro SC 2012 R2! Řeší poměrně velké množství problém
 Dejte si pozor na jednotlivé UR1 balíčky. Například ten pro VMM vyžaduje nejprve spuštěni skriptu na SQL serveru! Proto čtěte pozorně a instalujte nejdřívě samozřejmě do testovacího prostředí 🙂
 
 Více info a odkazy ke stažení <a href="http://support.microsoft.com/kb/2904734/en-us" target="_blank">zde</a>.
+

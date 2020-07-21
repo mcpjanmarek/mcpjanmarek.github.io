@@ -17,3 +17,4 @@ Samozřejmě to nejlépe uděláte přes GPO například. Pokud to ale potřebuj
 <pre class="theme:classic lang:batch decode:true ">psexec.exe \\clientpc1 powershell.exe "Enable-PSRemoting -Force"</pre>
 
 A pak už to valí a můžete třeba přes Enter-PSSession jít na CLIENTPC1 a powershellit.
+

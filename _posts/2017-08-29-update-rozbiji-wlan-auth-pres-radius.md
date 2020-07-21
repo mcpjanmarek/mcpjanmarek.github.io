@@ -18,3 +18,4 @@ Microsoft vydal update <a href="https://support.microsoft.com/en-us/help/4025335
 Pokud už to máte rozbité, tak je potřeba sáhnout do registrů a nastavit **SYSTEM\CurrentControlSet\Services\RasMan\PPP\EAP\13\DisableEndEntityClientCertCheck** na hodnotu **0**.
 
 Restart to nepotřebuje a s nainstalovaným blbým updatem už si nemusíte lámat hlavu.
+

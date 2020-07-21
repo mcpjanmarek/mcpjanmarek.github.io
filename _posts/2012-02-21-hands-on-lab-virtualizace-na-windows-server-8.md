@@ -20,3 +20,4 @@ categories:
 Pro ty z vás, kteří pravidelně navštěvují stránky WUG ([www.wug.cz](http://www.wug.cz)), není novinkou, že jsme (WBI Learning) spustili sérii Hands-on-Labů přímo u nás v high-tec školítku v Říčanech. Jedním z mých témat je Virtualizace na Windows Server 8, tedy Hyper-V verze 3. Totoho HoLu již proběhli 2 setkání, všechny naplněné k prasknutí. Ještě je zde možnost posledního (zatím) opakování a to dne 8.3.2012 v 17.30. Proto pokud máte zájem, registrujte se zde <http://www.wug.cz/praha/akce/489-HoL-R-Virtualizace-na-Windows-Server-8>
 
 Hledáte-li ještě specifičtější informace, je vám k dispozici náš vlastní 3denní WBI kurz: WBI501 &#8211; GetReady: Virtualization on Windows Server 8, více info zde <http://learning.wbi.cz/kurzy/69-get-ready-virtualization-on-windows-server-8.aspx>
+

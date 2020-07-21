@@ -45,3 +45,4 @@ V tuto chvíli lze již spustit aktivaci nebo opět použít příkazovou řádk
 > slmgr.exe -ato
 
 Problém vyřešen, OS zalicencován.
+

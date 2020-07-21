@@ -18,3 +18,4 @@ Pro BSOD použijete následující příkaz, který spustíte v parent partition
 
 <pre class="lang:ps decode:true ">[string]$NazevVM = 'TestVM123'
 Debug-VM -VMName $NazevVM -InjectNonMaskableInterrupt -Force</pre>
+

@@ -19,3 +19,4 @@ categories:
   - SC Virtual Machine Manager
 ---
 Přijďte na můj seminář pro WUG Jihlava! Dostanete pořádnou nálož informací o Hyper-V. Bude to deeeep dive 🙂 Registrace a více info na <http://wug.cz/jihlava/akce/386-Serverova-virtualizace-na-platforme-Hyper-V>
+

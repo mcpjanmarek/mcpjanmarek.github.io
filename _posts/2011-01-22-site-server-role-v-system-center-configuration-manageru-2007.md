@@ -20,7 +20,7 @@ tags:
 ---
 **Tento článek si můžete přečíst především také na stránkách školícího centra WBI Systems: <http://learning.wbi.cz>**
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;float:left;padding-top:0;border:0;margin:0 10px 0 0;" title="1_6F99E53E" src="http://janmarek.eu/wp-content/uploads/2011/03/1_6f99e53e_thumb.png" border="0" alt="1_6F99E53E" width="244" height="132" align="left" />](http://janmarek.eu/wp-content/uploads/2011/03/1_6f99e53e.png)V tomto článku o System Center Configuration Manageru 2007 se zaměříme na role systému, jejichž znalost je zásadní pro následnou implementaci a celkové porozumění jeho jednotlivých funkcí. Instalací a konfigurací určité role „spouštíte“ na site serveru požadovanou funkcionalitu. Některé další role jsou využité interně a o jejich instalaci se starat nemusíte. Pojďme tedy hurá na ně!
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;float:left;padding-top:0;border:0;margin:0 10px 0 0;" title="1_6F99E53E" src="/wp-content/uploads/2011/03/1_6f99e53e_thumb.png" border="0" alt="1_6F99E53E" width="244" height="132" align="left" />](/wp-content/uploads/2011/03/1_6f99e53e.png)V tomto článku o System Center Configuration Manageru 2007 se zaměříme na role systému, jejichž znalost je zásadní pro následnou implementaci a celkové porozumění jeho jednotlivých funkcí. Instalací a konfigurací určité role „spouštíte“ na site serveru požadovanou funkcionalitu. Některé další role jsou využité interně a o jejich instalaci se starat nemusíte. Pojďme tedy hurá na ně!
 
 ## SMS Provider
 
@@ -32,7 +32,7 @@ Jednoduše řečeno – každý server, který plní některou roli ConfigMgr je
 
 ## Distribution Point
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;float:right;padding-top:0;border-width:0;margin:0 0 0 10px;" title="2_6F99E53E" src="http://janmarek.eu/wp-content/uploads/2011/03/2_6f99e53e_thumb.png" border="0" alt="2_6F99E53E" width="194" height="244" align="right" />](http://janmarek.eu/wp-content/uploads/2011/03/2_6f99e53e.png)  
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;float:right;padding-top:0;border-width:0;margin:0 0 0 10px;" title="2_6F99E53E" src="/wp-content/uploads/2011/03/2_6f99e53e_thumb.png" border="0" alt="2_6F99E53E" width="194" height="244" align="right" />](/wp-content/uploads/2011/03/2_6f99e53e.png)  
 Jedná se o roli, která vlastně existovala už v prapůvodním SMSku. Je zásadni pro distribuci balíčků na klienty. Historicky nebyl ale ničím víc, než jen promyšleným file serverem.Dnes ovšem s IIS je zdrojem instalačních balíčků pro klienty, kteří si je stahují pomocí technologie BITS.  
 Celkově jsou tři typy distribučních bodů:
 
@@ -52,7 +52,7 @@ Je prostřednikem mezi klientem a systémem ConfigMgr z pohledu celkove správy.
 Pokud nainstalujete MP na secondary site, MP získává status Proxy MP. Proč vůbec instalovat MP na secondary site? Z důvodu snížení provozu na síti. Proxy MP je totiž orientován na snížení zátěže linky směrem k a od rodičovské site. Pokud ale máte na secondary site pouze několik klientu, tak rozdíl pravděpodobně nezaznamenáte (myšleno rozdíl mezi komunikací klienta s proxy MP nebo rovnou s MP).  
 V některém z následujících článků se pokusím ještě popsat, jak probiha komunikace klienta s MP (příp. s PMP) a jak klient zjistí, na který MP se má podívat.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;float:left;padding-top:0;border:0;margin:0 10px 0 0;" title="3_6F99E53E" src="http://janmarek.eu/wp-content/uploads/2011/03/3_6f99e53e_thumb.png" border="0" alt="3_6F99E53E" width="244" height="194" align="left" />](http://janmarek.eu/wp-content/uploads/2011/03/3_6f99e53e.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;float:left;padding-top:0;border:0;margin:0 10px 0 0;" title="3_6F99E53E" src="/wp-content/uploads/2011/03/3_6f99e53e_thumb.png" border="0" alt="3_6F99E53E" width="244" height="194" align="left" />](/wp-content/uploads/2011/03/3_6f99e53e.png)
 
 ## PXE Service Point
 
@@ -85,3 +85,4 @@ Pokud víte, co je User State migrace (např. pomocí USMT), tak prakticky již 
 
 Tuto roli můžete použít pouze v případě, že používáte NPS (Network Policy Service), resp. NAP (Network Access Protection) technologii. SHVP je tedy možné nainstalovat pouze na Windows Server 2008 s NPS. Následně SHVP kontroluje zdraví NAP-podporujících klientů a reportuje výsledky. Protože tyto výstupy jsou dále zasílány do Active Directory Domain Services a replikovány do Systems Management kontejneru, musíte mít pro tuto roli rozšířené Active Directory schéma pro ConfigMgr.  
 Na základě této role, se pak dá použít automatická karanténa klientů do oddělené site, pokud nesplňují určité požadavky apod.
+

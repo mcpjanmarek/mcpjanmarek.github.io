@@ -33,3 +33,4 @@ A co dál? Už teď začínám plánovat obsah dalšího HYPERCONu, vydání 3.0
 Závěrem bych rád poděkoval partnerům KPCS, Amenitu, Gopasu a WUGu za jejich podporu, kolegům a kamarádům za jejich skvělé přednášky a především vám za účast!
 
 <a class="twitter-timeline" href="https://twitter.com/hyperconcz" data-height="1000">Tweets by hyperconcz</a>
+

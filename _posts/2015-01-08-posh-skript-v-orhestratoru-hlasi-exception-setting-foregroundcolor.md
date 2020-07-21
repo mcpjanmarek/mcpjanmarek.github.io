@@ -20,7 +20,7 @@ Cela chybová hláška zní takto:
 
 V Runbook Testeru to vypadá takhle:
 
-[<img style="display: inline; border: 0px;" title="image" src="http://janmarek.eu/wp-content/uploads/2015/01/image_thumb6.png" alt="image" width="667" height="66" border="0" />](http://janmarek.eu/wp-content/uploads/2015/01/image6.png)
+[<img style="display: inline; border: 0px;" title="image" src="/wp-content/uploads/2015/01/image_thumb6.png" alt="image" width="667" height="66" border="0" />](/wp-content/uploads/2015/01/image6.png)
 
 V celém PowerShell skriptu zdůrazňuji nemám žádný cmdlet, který používá parametr ForegroundColor.
 
@@ -32,6 +32,7 @@ Najednou koukám, že mám ve skriptu zapomenutý cmdlet Clear-Host, který je t
 
 Ano, toto byl ten problém. Orchestrator se s **Clear-Host** nedokáže vypořádat. Takže jsem ho vyhodil a už to jede!
 
-[<img style="display: inline; border: 0px;" title="image" src="http://janmarek.eu/wp-content/uploads/2015/01/image_thumb7.png" alt="image" width="501" height="51" border="0" />](http://janmarek.eu/wp-content/uploads/2015/01/image7.png)
+[<img style="display: inline; border: 0px;" title="image" src="/wp-content/uploads/2015/01/image_thumb7.png" alt="image" width="501" height="51" border="0" />](/wp-content/uploads/2015/01/image7.png)
 
 Magické! 🙂
+

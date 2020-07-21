@@ -40,3 +40,4 @@ categories:
     <em>Příklad: oscdimg D:folderwithmyfilesforisoimage D:myisofile.iso -m &#8211; n</em>
   </div>
 </div>
+

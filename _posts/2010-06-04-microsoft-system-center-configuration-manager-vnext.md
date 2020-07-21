@@ -18,3 +18,4 @@ categories:
     <img style="display:inline;margin:0 10px 10px 0;" border="0" alt="Microsoft Connect" align="left" src="https://connect.microsoft.com/images/msconnect_logo.png" width="153" height="61" />Na <a href="https://connect.microsoft.com/ConfigurationManagervnext" target="_blank">Microsoft Connectu</a> můžete joinout beta program verze vNext a <a href="https://connect.microsoft.com/ConfigurationManagervnext" target="_blank">stáhnout</a> si cca 1,4GB vNext beta build a podívat se jak to bude v příští verzi všechno fungovat. Enjoy!
   </p>
 </div>
+

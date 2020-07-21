@@ -17,6 +17,7 @@ Předpokládejme, že máte Windows Server 2012 fyzický server s rolí Hyper-V,
 
 Pokud tento virtuální switch před upgradem neodeberete, pak po upgradu při pokusu o vytvoření nového switche, na stejném adaptéru dostanete chybovou hlášku, že tento adaptér je už použit pro jiný virtuální switch. Ale přitom vy žádný jiný nemáte!
 
-[<img class="alignleft size-full wp-image-609" alt="error-create-virtual-eth-switch-adapter-is-already-bound-to-the-ms-vswitch-protocol" src="http://janmarek.eu/wp-content/uploads/2013/10/error-create-virtual-eth-switch-adapter-is-already-bound-to-the-ms-vswitch-protocol.png" width="367" height="247" />](http://janmarek.eu/wp-content/uploads/2013/10/error-create-virtual-eth-switch-adapter-is-already-bound-to-the-ms-vswitch-protocol.png)
+[<img class="alignleft size-full wp-image-609" alt="error-create-virtual-eth-switch-adapter-is-already-bound-to-the-ms-vswitch-protocol" src="/wp-content/uploads/2013/10/error-create-virtual-eth-switch-adapter-is-already-bound-to-the-ms-vswitch-protocol.png" width="367" height="247" />](/wp-content/uploads/2013/10/error-create-virtual-eth-switch-adapter-is-already-bound-to-the-ms-vswitch-protocol.png)
 
 Co s tím? Odmapovat Hyper-V extensible switch rozhraní z NIC není jednoduchý úkon a ani nevím, jestli řešení, na které jsem přišel je podporované Microsoftem a proto tedy zbývá odinstalovat Hyper-V roli a nainstalovat ji zpět&#8230;. nebo tedy smažte virtuální switche před upgradem 😉
+

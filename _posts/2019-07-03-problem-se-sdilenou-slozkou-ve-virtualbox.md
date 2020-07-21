@@ -19,3 +19,5 @@ Stačí jen uživatele přidat do správné skupiny a hned to jede:
 sudo usermod -aG vboxsf <userlogin>
 {% endhighlight %}
 
+
+

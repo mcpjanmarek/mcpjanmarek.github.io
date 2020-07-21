@@ -34,3 +34,4 @@ Obsahuje opravy na poměrně zásadní chyby v System Center 2012 komponentách:
   * Service Manager (12 chyb)
 
 Za sebe a mou oblíbenou virtualizaci musím vypíchnout hlavně problémy se stavem virtuálního stroje ve Virtual Machine Manageru, který se po &#8222;sdíleném&#8220; připojení ISO souboru z Library dostane do Unsupported stavu (a to i přes správnou konfiguraci delegace a share oprávnění). Nepříjemný je také obdobný stav v případě, kdy virtuální stroj má své disky umístěné na cluster disku (i CSV) a přitom není nakonfigurovaný jako vysoce dostupný.
+

@@ -44,3 +44,4 @@ migration project. Plan what&#8217;s next with MAP.
   * Identify web browser compatibility issues prior to Windows 7  
     deployment.
   * Discover Oracle database schemas for migration to SQL Server.
+

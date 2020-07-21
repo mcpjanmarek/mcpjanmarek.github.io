@@ -23,3 +23,4 @@ Já si teda ještě mapuji svůj OneDrive jako network drive. Jak na to?
   5. Teď klasicky ve File Exploreru namapujte nový disk svými OneDrive credentials pomocí cesty: <span style="color: #0000ff;"><em>https://d.docs.live.net/<strong>00AAB3D7DDF12AF</strong></em></span>
 
 A je to. Enjoy!
+

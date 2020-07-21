@@ -16,3 +16,4 @@ Vzhledem k blížící se naší konferenci na 2012 R2 produkty (více info <a h
 Každopádně nakonec se celý proces dokončil. Server zůstal v doméně, reaguje po přihlášení úplně bleskově a nevypadá to, že by chyběl nějaký ovladač.
 
 Pokud tedy přemýšlíte, jestli vám na tomto hardwaru bude fungovat in-place upgrade, pak mohu potvrdit, že ano&#8230;
+

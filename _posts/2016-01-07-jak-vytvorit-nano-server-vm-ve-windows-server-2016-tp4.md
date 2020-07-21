@@ -62,3 +62,4 @@ Pokud byste opravdu chtěli použít Copy-VMFile, tak postup je následující:
   2. Zkopírujete si BLOB pomocí **Copy-VMFile -Name &#8218;nano1&#8216; -SourcePath D:\odjblob -DestinationPath C:\ -FileSource Host**
 
 Další nastavování už je buď klasický PowerShell nebo si jen v Nano povolíte na firewallu remote management a použijete vzdáleně konzole.
+

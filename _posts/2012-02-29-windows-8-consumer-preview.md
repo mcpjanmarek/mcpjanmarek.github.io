@@ -20,3 +20,4 @@ categories:
   - Nezařazené
 ---
 A je to tu! Oficiálně ke stažení Consumer Preview nových Windows 8. Dle informací na webu se jedná už o Feature Lock, takže systém již nebude více rozšířen&#8230; Stahovat ISO můžete <a href="http://windows.microsoft.com/en-US/windows-8/iso" target="_blank">zde</a>. Dostupný je i &#8222;smart&#8220; instalátor, který vám zkontroluje hardware, aplikace, které pujdou migrovat na W8 atd.
+

@@ -18,3 +18,4 @@ Rychlovka bez většího komentáře 🙂
 $PartitionMaxSize = Get-Volume -FileSystemLabel $FileSystemLabel | Get-Partition | Get-PartitionSupportedSize | Select-Object -ExpandProperty sizemax
 
 Get-Volume -FileSystemLabel $FileSystemLabel | Get-Partition | Resize-Partition -Size $PartitionMaxSize</pre>
+

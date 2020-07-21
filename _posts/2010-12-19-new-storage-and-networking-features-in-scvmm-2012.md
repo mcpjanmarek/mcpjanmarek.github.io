@@ -14,3 +14,4 @@ categories:
   - SC Virtual Machine Manager
 ---
 [New storage and networking features in SCVMM 2012](http://wp.me/prnWJ-jm).
+

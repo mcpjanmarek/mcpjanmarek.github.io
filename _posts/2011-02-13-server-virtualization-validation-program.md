@@ -21,3 +21,4 @@ categories:
 Každý, kdo se již nějakým způsobem dostal k serverové virtualizaci, řešil problém, zda &#8222;jeho&#8220; technologie (SQL,Exchangem, SCCM, SCOM, atd.) poběží na virtualizovaném OS a zda nepřijde o support ze strany Microsoftu.
 
 Tak právě proto je k dispozici tento <a href="http://www.windowsservercatalog.com/svvp.aspx?svvppage=svvp.htm" target="_blank">Server Virtualization Validation Program</a> s krásným [Support Policy Wizardem](http://www.windowsservercatalog.com/svvp.aspx?svvppage=svvpwizard.htm). Vyberte příslušnou technologii, virtualizační platformu a všechny potřebné informace máte přímo před sebou.
+

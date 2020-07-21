@@ -34,4 +34,5 @@ Dnes jsem trochu bojoval se synchronizací OneDrive souborů. Nakonec byl poblé
 
 Ano, dalo by se to udělat do tabulky, ale takhle mi to stačilo 🙂
 
-[<img title="posh-path-length" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="posh-path-length" src="http://janmarek.eu/wp-content/uploads/2015/01/poshpathlength_thumb.png" width="658" height="173" />](http://janmarek.eu/wp-content/uploads/2015/01/poshpathlength.png)
+[<img title="posh-path-length" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px; display: inline" border="0" alt="posh-path-length" src="/wp-content/uploads/2015/01/poshpathlength_thumb.png" width="658" height="173" />](/wp-content/uploads/2015/01/poshpathlength.png)
+

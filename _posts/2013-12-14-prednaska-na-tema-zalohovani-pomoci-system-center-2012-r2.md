@@ -26,3 +26,4 @@ Obsahem bude:
 &#8211; Integrace s dalšími System Center 2012 R2 komponentami
 
 Více informací <a href="http://www.wug.cz/zlin/akce/622-System-Center-2012-R2-a-zalohovani-a-obnova-dat" target="_blank">zde</a>. Těším se na vás!
+

@@ -25,13 +25,13 @@ Od vzniku Hyper-V, tedy OS Windows Server 2008, je samozřejmě možné poskytov
 
 Do této situace se samozřejmě můžeme dostat ještě dnes s verzí R2, která nabízí možnosti využití funkcionality Cluster Shared Volume, která není ve výchozím stavu ale povolena.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="noncsv" src="http://janmarek.eu/wp-content/uploads/2011/10/noncsv_thumb.png" alt="noncsv" width="240" height="169" border="0" />](http://janmarek.eu/wp-content/uploads/2011/10/noncsv.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="noncsv" src="/wp-content/uploads/2011/10/noncsv_thumb.png" alt="noncsv" width="240" height="169" border="0" />](/wp-content/uploads/2011/10/noncsv.png)
 
 ### Non-cluster disk
 
 Situace nejčastěji vzniká při vytváření clusteru až po vytvoření VM na standalone Hyper-V serverech. Dochází k tomu, že je konfigurována HAVM, která má ovšem diskový subsystém uložený na lokálním disku nodu clusteru. Tato konfigurace zabraňuje přesunu VM ať již metodou Quick či Live Migration.
 
-[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="noncluster" src="http://janmarek.eu/wp-content/uploads/2011/10/noncluster_thumb.png" alt="noncluster" width="240" height="173" border="0" />](http://janmarek.eu/wp-content/uploads/2011/10/noncluster.png)
+[<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="noncluster" src="/wp-content/uploads/2011/10/noncluster_thumb.png" alt="noncluster" width="240" height="173" border="0" />](/wp-content/uploads/2011/10/noncluster.png)
 
 ### Cluster resources
 
@@ -46,3 +46,4 @@ _Pozn.: V aktuální verzi SCVMM 2012 Release Candidate se opět znovu projevuje
 ### Virtual Networks
 
 Jedním z nejdůležitějších bodů cluster řešení je „naprosto shodná konfigurace všech nodů clusteru“! Disky, velikost RAM, sítě, instalované patche a další a další konfigurace je právě validována při vytváření clusteru. Tento validátor ovšem nekontroluje dost důkladně pojmenování virtuálních/síťových adaptérů. Nejčastěji se proto stává, že jste při konfiguraci virtuálních sítí v Hyper-V manageru udělali překlep při pojmenování. Pro SCVMM, který je závislý na tomto jménu, je pak HAVM, která využívá tuto nekonzistentní konfiguraci, v unsupported stavu. Tomuto můžete předejít důkladnou kontrolou nebo konfigurací virtuálních sítí až po vytvoření clusteru z SCVMM. Řešení problému je jednoduché – upravit názvy.
+

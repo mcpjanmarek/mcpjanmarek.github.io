@@ -18,3 +18,4 @@ $SiteServer = 'sccmserver01.janmarek.local'
 $site = Get-WmiObject -Namespace root/SMS/site_$($SiteKod) -ComputerName $SiteServer -Class SMS_SCI_SiteDefinition
 $site.Name = $NovyNazevSite
 $site.Put()</pre>
+

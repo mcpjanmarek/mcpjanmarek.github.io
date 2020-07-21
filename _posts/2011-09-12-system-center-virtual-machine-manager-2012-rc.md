@@ -106,3 +106,4 @@ Přichází další krok ve vývoji nové verze System Center nástroje pro spr�
                 Instances
       * Leverage powerful application virtualization technologies such as Server  
         App-V
+

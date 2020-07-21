@@ -16,4 +16,5 @@ categories:
   - Hyper-V
   - Nezařazené
 ---
-<a href="http://www.microsoft.com/download/en/details.aspx?id=2688" target="_blank"><img class="alignleft  wp-image-395" title="hypervr2sp1posterthumb" src="http://janmarek.eu/wp-content/uploads/2012/02/hypervr2sp1poster.png?w=300" alt="" width="300" height="185" /></a>Jste-li stejně jako já nadšenci plakátů k různým MS technologiím, pak zde je ke stažení aktuální plakát architektury Hyper-V R2 Service Pack 1. Obsahuje novinky jako Dynamic Memory a RemoteFX. Velmi přehledně zpracováno! <http://www.microsoft.com/download/en/details.aspx?id=2688>
+<a href="http://www.microsoft.com/download/en/details.aspx?id=2688" target="_blank"><img class="alignleft  wp-image-395" title="hypervr2sp1posterthumb" src="/wp-content/uploads/2012/02/hypervr2sp1poster.png?w=300" alt="" width="300" height="185" /></a>Jste-li stejně jako já nadšenci plakátů k různým MS technologiím, pak zde je ke stažení aktuální plakát architektury Hyper-V R2 Service Pack 1. Obsahuje novinky jako Dynamic Memory a RemoteFX. Velmi přehledně zpracováno! <http://www.microsoft.com/download/en/details.aspx?id=2688>
+

@@ -16,4 +16,5 @@ categories:
   - Hyper-V
   - Nezařazené
 ---
-<a href="http://technet.microsoft.com/en-us/edge/ff710521(MSDN.10).aspx" target="_blank"><img class="alignleft size-medium wp-image-414" title="intrvwwpmshyperv1" src="http://janmarek.eu/wp-content/uploads/2012/02/intrvwwpmshyperv1.png?w=300" alt="" width="300" height="221" /></a>
+<a href="http://technet.microsoft.com/en-us/edge/ff710521(MSDN.10).aspx" target="_blank"><img class="alignleft size-medium wp-image-414" title="intrvwwpmshyperv1" src="/wp-content/uploads/2012/02/intrvwwpmshyperv1.png?w=300" alt="" width="300" height="221" /></a>
+

@@ -25,3 +25,4 @@ CCMCLEAN, obsažený v toolkitu pro SMS 2003, byl vyvinut především pro odins
 Jednou z novinek ve verzi 2007 ale byla právě zjednodušená odinstalace. Stačí zavolat CCMSETUP.EXE s parametrem /UNINSTALL.
 
 **CCMSETUP.EXE /UNINSTALL**
+

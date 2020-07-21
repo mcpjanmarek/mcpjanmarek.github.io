@@ -25,3 +25,4 @@ Situace je následující. Nainstalujete si čistý OS na Surface a připojíte 
 Jak z toho ven? Udělal jsem kernel debug toho ovladače a našel jsem, že v kolizi při volání CheckPoint VPN klienta. Když jsem ručně schodil driver CheckPoint VPN, tak se hned USB Ethernet rozjel.
 
 Takže co s tím? Odinstalovat CheckPoint VPN klienta. A jak to řešit dlouhodobě? V mém případě mám virtuálku, kde mám všechny tyhle ošklivé VPN interfaces.__
+

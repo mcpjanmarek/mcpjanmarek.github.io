@@ -19,7 +19,7 @@ tags:
 
 Shielded VM je virtuální stroj, jehož data jsou chráněna kombinací několika spolupracujících technologií, které byly představeny ve Windows Server 2016. Velkou výhodou je ochrana VM jak v jejím statickém stavu (běží na některém Hyper-V hostiteli a má někde uložena data), tak ve chvíli jejího přesunu (při Live Migration, SNLM apod.)
 
-<figure id="attachment_1680" aria-describedby="caption-attachment-1680" style="width: 300px" class="wp-caption aligncenter">[<img class="wp-image-1680 size-medium" src="http://janmarek.eu/wp-content/uploads/2017/02/ws2016-virtmgmt-vm-gen2-security-300x292.png" width="300" height="292" srcset="/wp-content/uploads/2017/02/ws2016-virtmgmt-vm-gen2-security-300x292.png 300w, /wp-content/uploads/2017/02/ws2016-virtmgmt-vm-gen2-security.png 440w" sizes="(max-width: 300px) 100vw, 300px" />](http://janmarek.eu/wp-content/uploads/2017/02/ws2016-virtmgmt-vm-gen2-security.png)<figcaption id="caption-attachment-1680" class="wp-caption-text">Security nastavení Gen 2 VM v Hyper-V 2016</figcaption></figure>
+<figure id="attachment_1680" aria-describedby="caption-attachment-1680" style="width: 300px" class="wp-caption aligncenter">[<img class="wp-image-1680 size-medium" src="/wp-content/uploads/2017/02/ws2016-virtmgmt-vm-gen2-security-300x292.png" width="300" height="292" srcset="/wp-content/uploads/2017/02/ws2016-virtmgmt-vm-gen2-security-300x292.png 300w, /wp-content/uploads/2017/02/ws2016-virtmgmt-vm-gen2-security.png 440w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2017/02/ws2016-virtmgmt-vm-gen2-security.png)<figcaption id="caption-attachment-1680" class="wp-caption-text">Security nastavení Gen 2 VM v Hyper-V 2016</figcaption></figure>
 
 ## Proč by mě to mohlo/mělo zajímat?
 
@@ -45,7 +45,7 @@ Záleží na režimu nastavení a provozu, o kterém se dozvíte dále, ale vesm
 
 Jedná se o roli Windows Serveru 2016, která zajišťuje atestaci Hyper-V hostitelů (tzv. Guarded Hosts) a ochranu klíčů, které jsou použité k ochraně dat (šifrování VHD bitlockerem, šifrování dat při Live Migration apod.).
 
-<figure id="attachment_1681" aria-describedby="caption-attachment-1681" style="width: 300px" class="wp-caption aligncenter">[<img class="wp-image-1681 size-medium" src="http://janmarek.eu/wp-content/uploads/2017/02/ws2016-servermanager-hgs-role-300x204.png" width="300" height="204" srcset="/wp-content/uploads/2017/02/ws2016-servermanager-hgs-role-300x204.png 300w, /wp-content/uploads/2017/02/ws2016-servermanager-hgs-role.png 529w" sizes="(max-width: 300px) 100vw, 300px" />](http://janmarek.eu/wp-content/uploads/2017/02/ws2016-servermanager-hgs-role.png)<figcaption id="caption-attachment-1681" class="wp-caption-text">HGS role ve Windows Server 2016</figcaption></figure>
+<figure id="attachment_1681" aria-describedby="caption-attachment-1681" style="width: 300px" class="wp-caption aligncenter">[<img class="wp-image-1681 size-medium" src="/wp-content/uploads/2017/02/ws2016-servermanager-hgs-role-300x204.png" width="300" height="204" srcset="/wp-content/uploads/2017/02/ws2016-servermanager-hgs-role-300x204.png 300w, /wp-content/uploads/2017/02/ws2016-servermanager-hgs-role.png 529w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2017/02/ws2016-servermanager-hgs-role.png)<figcaption id="caption-attachment-1681" class="wp-caption-text">HGS role ve Windows Server 2016</figcaption></figure>
 
 ### Guarded Host
 
@@ -74,3 +74,4 @@ Všimněte si, že v obou režimech má ovšem finální slovo HGS a proto je sa
 V další části si nejdříve zkusíme blíže ukázat celé fungování HGS, GH a Shielded VMs, a tím si připravíme půdu na konfiguraci – nejdříve bez Microsoft System Center 2016 a poté s ním.
 
 &nbsp;
+

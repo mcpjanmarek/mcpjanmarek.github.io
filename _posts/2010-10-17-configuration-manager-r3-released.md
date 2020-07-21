@@ -13,7 +13,7 @@ categories:
   - Nezařazené
   - SC Configuration Manager
 ---
-<span style="text-decoration:underline;"><a href="http://janmarek.eu/wp-content/uploads/2010/10/logo-sccm_torned.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;float:left;border-top:0;border-right:0;padding-top:0;" title="logo-sccm_torned" border="0" alt="logo-sccm_torned" align="left" src="http://janmarek.eu/wp-content/uploads/2010/10/logo-sccm_torned_thumb.png" width="240" height="75" /></a>Microsoft:</span>
+<span style="text-decoration:underline;"><a href="http://janmarek.eu/wp-content/uploads/2010/10/logo-sccm_torned.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;float:left;border-top:0;border-right:0;padding-top:0;" title="logo-sccm_torned" border="0" alt="logo-sccm_torned" align="left" src="/wp-content/uploads/2010/10/logo-sccm_torned_thumb.png" width="240" height="75" /></a>Microsoft:</span>
 
 The System Center team is very excited to announce the release of System Center Configuration Manager 2007 R3.&nbsp; This release is a significant accomplishment for the engineering team for a lot of reasons.&nbsp; Not only does ConfigMgr R3 drive new scenario support to existing world class capabilities, it raises core functionality to new levels of industry leading status.
 
@@ -39,3 +39,4 @@ Some resources for you:
                               * Configuration Manager 2007 R3: Power Management &#8211; Traditional Barriers to Power Management &#8211; [link](http://blogs.technet.com/b/systemcenter/archive/2010/09/14/configuration-manager-2007-r3-power-management-traditional-barriers-to-power-management.aspx) 
                                   * Configuration Manager 2007 R3: Power Management . What is it and why is it important? &#8211; [link](http://blogs.technet.com/b/systemcenter/archive/2010/09/13/configuration-manager-2007-r3-power-management-what-is-it-and-why-is-it-important.aspx) 
                                       * Power Management with Windows 7 – [link](http://www.microsoft.com/environment/windows7.aspx) </ul>
+

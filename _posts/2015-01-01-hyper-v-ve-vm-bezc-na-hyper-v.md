@@ -27,3 +27,4 @@ Hyper-V bohužel dnes nepodporuje pokročilé maskování fyzických zařízení
 V některém z dalších článků sepíšu, jak nested Hyper-V rozjet, abyste si mohli taky neoficiálně nepodporovaně zkoušet.
 
 Mimochodem – už nás tuhle věc Microsoftu mnoho reportuje, tak snad se třeba jednou dočkáme, aby to šlo 🙂
+

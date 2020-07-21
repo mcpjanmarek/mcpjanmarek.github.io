@@ -14,3 +14,4 @@ tags:
 Dal jsem do odkazů link na stažení mého excelu, který používám k &#8222;designu&#8220; přidělování CPU k (d)VMQ.
 
 Třeba se vám bude hodit 🙂
+

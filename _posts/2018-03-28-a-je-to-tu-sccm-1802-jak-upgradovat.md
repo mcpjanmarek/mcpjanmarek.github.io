@@ -45,3 +45,4 @@ Pak už byste měli po stisknutí Check for Updates vidět novou verzi téměř 
 Mimochodem 1802ka by měla být dostupná také už jako přímá instalace (jedná se o tzv. baseline version) a tak případné nove sites bude možné instalovat rovnou jako 1802.
 
 Více detailů o novinkách najdete <a href="https://docs.microsoft.com/en-us/sccm/core/plan-design/changes/whats-new-in-version-1802" target="_blank" rel="noopener">tady</a>.
+

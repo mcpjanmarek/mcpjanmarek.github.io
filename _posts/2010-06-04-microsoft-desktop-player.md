@@ -21,3 +21,4 @@ categories:
     <img style="border-bottom:0;border-left:0;display:inline;border-top:0;border-right:0;margin:0 10px 10px 0;" border="0" alt="Microsoft" align="left" src="http://i.microsoft.com/global/en/publishingimages/sitebrand/microsoft.gif" width="132" height="25" />Pro ty, kterým nechodí TechNet Flash, mám výborný beta prográmek na vyhledávání a shlédnutí Microsoft videí. Jmenuje se Microsoft Desktop Player. Ve spodní části webu máte odkaz na download. Program nainstalujete a můžete hned lítat po videích. Oblíbené si můžete přidat do library a tím se stáhnou na váš disk. Prostě nádhera! Nepřéhledněte také možnosti sdílení přes twitter, fb apod.
   </p>
 </div>
+

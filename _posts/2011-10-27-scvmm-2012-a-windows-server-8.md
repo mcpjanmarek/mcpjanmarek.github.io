@@ -22,8 +22,9 @@ tags:
   <a href="http://www.facebook.com/widgets/like.php?href=https://jmarek.wordpress.com/2011/10/27/scvmm-2012-a-windows-server-8/">http://www.facebook.com/widgets/like.php?href=https://jmarek.wordpress.com/2011/10/27/scvmm-2012-a-windows-server-8/</a>
 </div>
 
-[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;float:left;border-top:0;border-right:0;padding-top:0;" title="unsupported" border="0" alt="unsupported" align="left" src="http://janmarek.eu/wp-content/uploads/2011/10/unsupported_thumb.png" width="148" height="44" />](http://janmarek.eu/wp-content/uploads/2011/10/unsupported.png)
+[<img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;float:left;border-top:0;border-right:0;padding-top:0;" title="unsupported" border="0" alt="unsupported" align="left" src="/wp-content/uploads/2011/10/unsupported_thumb.png" width="148" height="44" />](/wp-content/uploads/2011/10/unsupported.png)
 
 Ano, bohužel správa Hyper-V v3 (Windows Server 8) není podporovaná v System Center Virtual Machine Manageru 2012 RC. Asi se není čemu divit, když SCVMM má vyjít už za 5 měsíců a “osmičky” až za… termíny se pořád mění… Jak píše i sám Hilton Lange z Microsoftu, Windows Server 8 je natolik jiný, že ho nelze jednoduše přidat do správy SCVMM.
 
 Nezbývá nám než čekat. Sám se těším až to půjde a věřte, že budu první, kdo to zkusí 🙂
+

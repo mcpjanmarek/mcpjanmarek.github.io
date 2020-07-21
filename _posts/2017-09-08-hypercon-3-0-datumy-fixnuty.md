@@ -23,3 +23,4 @@ Program připravujeme. Těšit se už teď ale můžete na super přednášky a 
 Registrace je v tuto chvíli otevřena pro lokalitu Nový Jičín.
 
 Sledujte <a href="http://www.hypercon.cz" target="_blank" rel="noopener">www.hypercon.cz</a>
+

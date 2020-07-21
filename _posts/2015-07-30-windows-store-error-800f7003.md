@@ -21,6 +21,7 @@ na hodnotu: **%USERPROFILE%\AppData\Local\Microsoft\Windows\Temporary Internet F
 
 Mělo by to teda pak vypadat takhle:
 
-[<img class="aligncenter size-full wp-image-956" src="http://janmarek.eu/wp-content/uploads/2015/07/error-803f7003-fix-regedit.png" alt="error-803f7003-fix-regedit" width="1010" height="146" />](http://janmarek.eu/wp-content/uploads/2015/07/error-803f7003-fix-regedit.png)Tohle mi zafungovalo btw. i na Windows 8.1&#8230;
+[<img class="aligncenter size-full wp-image-956" src="/wp-content/uploads/2015/07/error-803f7003-fix-regedit.png" alt="error-803f7003-fix-regedit" width="1010" height="146" />](/wp-content/uploads/2015/07/error-803f7003-fix-regedit.png)Tohle mi zafungovalo btw. i na Windows 8.1&#8230;
 
 &nbsp;
+

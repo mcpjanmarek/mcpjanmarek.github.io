@@ -17,3 +17,4 @@ Teď jsem ve svých poznámkách našel rozhovor, který jsme s kolegou Romanem 
 
 <pre>Honza: To budu asi někde přealokovanej.
 Roman: To budeš. Podívej se, kde všude…. ... ... ... Vlastně všude…</pre>
+

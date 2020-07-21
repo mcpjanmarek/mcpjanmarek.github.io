@@ -53,3 +53,4 @@ PS C:\WINDOWS\system32&gt;</pre>
 Tak příště už bez restartu 😉
 
 &nbsp;
+

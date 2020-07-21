@@ -27,3 +27,4 @@ tags:
     Communication between them starts on the RPC port. They say each others&#8216; port number on which they start a Remote Assistance session. This port is dynamically selected from a range up from 1024. So, you need to open the RPC port number 135 and then all ports up from 1024. This can raise a risk in your infrastructure, so other option is to limit RPC dynamic ports range on clients by modification the registry key HKEY LMsoftwaremicrosoftrpcinternetports. Then you can limit the outbound communication from computer with console to client to only these ports. But in the other way (from client to server) you need to leave it opened for all ports. If you modify the other way you may except problems with other services (for ex. AD).
   </div>
 </div>
+

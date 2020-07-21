@@ -29,3 +29,4 @@ Konečně je zde tedy možnost, jak spravovat Windows Server 2012 a Windows 8.
 Z pohledu Virtual Machine Manageru je tedy konečně krom podpory samotného operačního systému dostupná i Network Virtualization s možností konfigurace použitého typu a další.
 
 Servery těště se, jde se na reinstalaci!
+

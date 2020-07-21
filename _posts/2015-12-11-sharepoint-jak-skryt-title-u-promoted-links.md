@@ -13,3 +13,4 @@ categories:
 Ne, že bych se přesměroval z infra na SharePoint, ale poslední dny jsem donucen s ním &#8222;pracovat&#8220;. Tyhle mikroposty spíš teda slouží pro mě, jako poznámky do budoucna 🙂
 
 Jak teda skrýt Title web party Promoted Links na stránce? Do hodnoty Title stačí napsat dvě mezery. Jednu to nepožere, ale dvě jsou OK.
+

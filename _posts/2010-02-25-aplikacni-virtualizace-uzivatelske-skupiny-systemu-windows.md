@@ -13,3 +13,4 @@ categories:
 <div id="msgcns!6E7B9216726D07B8!257" class="bvMsg">
   Náš seminář o virtualizaci aplikací byl přesunut na 18 března 2010. Pro více informací přejděte na<a href="http://wug.cz/Aktuality/tabid/36/ctl/Detail/mid/492/ItemId/325/language/cs-CZ/Default.aspx"> WU</a>G. Uvidíme se tam!
 </div>
+

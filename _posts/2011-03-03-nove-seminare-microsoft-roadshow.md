@@ -26,3 +26,4 @@ _Distribuce aplikací s využitím Microsoft technologií_
 _Serverová virtualizace v praxi_
 
 _System Center Configuration Manager 2007 R3 a 2012_
+

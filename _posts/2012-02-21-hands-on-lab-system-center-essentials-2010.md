@@ -19,3 +19,4 @@ categories:
 V rámci Hands-on-Labů pro Windows User Group ([www.wug.cz](http://www.wug.cz)) jsem pro vás připravil téma System Center Essentials 2010. Tento HoL proběhne již pozítří 23.2.2012 na půdě našeho (WBI Learning) high-tech školícího střediska v Říčanech, proto se neváhejte registrovat zde <http://www.wug.cz/praha/akce/482-HoL-System-Center-Essentials-2010>
 
 Těším se na setkání s vámi!!!
+

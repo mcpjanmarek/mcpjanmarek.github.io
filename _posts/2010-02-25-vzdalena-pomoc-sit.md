@@ -22,3 +22,4 @@ categories:
     Komunikace mezi nimi začíná na portu RPC. Říkají, že každé jiné číslo portu na kterém začnou relaci vzdálené pomoci. Tento port je dynamicky vybrán z řady do 1024. Tak je třeba otevřít číslo portu RPC 135 a pak všechny porty až 1024. To může zvýšit riziko v infrastruktuře, takže další možnost je omezit rozsah dynamických portů RPC na klienty změnou klíče registru HKEY LMsoftwaremicrosoftrpcinternetports. Potom můžete omezit odchozí komunikaci z počítače, konzole na klientovi pouze tyto porty. Ale jiným způsobem (od klienta k serveru), je třeba ponechat otevřené pro všechny porty. Pokud změníte na druhou stranu může kromě problémů s dalšími službami (pro ex. AD).
   </div>
 </div>
+

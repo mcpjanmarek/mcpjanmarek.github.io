@@ -19,3 +19,4 @@ Nedávno vyšla nová verze mého oblíbeného powershell editoru SAPIEN PowerSh
 Více info <a href="https://www.sapien.com/blog/2017/07/12/write-a-windows-service-in-powershell/" target="_blank" rel="noopener">zde</a>.
 
 PS. Jestli stále hledáte nejen editor na psaní PowerShellu, tak neváhejte a jděte do SAPIENu. Za tu cenu to stojí!
+

@@ -18,3 +18,4 @@ categories:
   - Nezařazené
 ---
 [<img class="alignleft" title="5nine Manager for Hyper-V" src="http://blogs.technet.com/resized-image.ashx/__size/550x0/__key/CommunityServer-Blogs-Components-WeblogFiles/00-00-00-50-45/5531.5Nine-Manager-for-Hyper_2D00_V.png" alt="" width="294" height="244" />](null)Značnou výhodou je provozovat Hyper-V na core edici serverového operačního systému. Docílíte tak vyšší dostupnosti díky snížení patchování (a následných restartů) a vyššího zabezpečení díky nepřítomnosti GUI, kdy je systém méně náchylný k útokům a je minimalizována lidská chyba. V případě core verze se však mírně zhoršuje komfort správy, protože jediným prostředkem je příkazová řádka. Můžete ovšem využít znástroj 5Nine Manager for Hyper-V. Díky němu získáte pohodlné prostředí podobné Hyper-V Manager konzoli. Více informací naleznete zde: <http://www.5nine.com/5nine-manager-for-hyper-v-product.aspx>
+

@@ -17,3 +17,4 @@ tags:
   - System Center App Controller
 ---
 BEVARE OF SYSTEM CENTER! 🙂 Microsoft is working on a new system center product called APP CONTROLLER. A great demo video is available <a href="http://blogs.technet.com/b/adhall/archive/2011/07/14/taking-a-walk-through-app-controller.aspx" target="_blank">here</a>. Watch it and prepare for the new absolutelly amazing SC APP CONTROLLER!
+

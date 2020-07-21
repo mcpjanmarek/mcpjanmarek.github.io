@@ -13,3 +13,4 @@ categories:
 Včera večer jsem zachytil na Born to Learn blogu informaci, že k 20. výročí Microsoft znovu spouští akci &#8222;Second Shot&#8220;, díky které získáváte 2.pokus zdarma pro složení certifikační zkoušky. Akce se vztahuje jak na solo zkoušky na balíky a bude trvat do května 2013.
 
 Tento rok přinese mnoho nových produktů a tedy i mnoho nových certifikací. Je bezva mít dva pokusy. Minimálně pro to, že úroveň stresu trochu klesne 🙂
+

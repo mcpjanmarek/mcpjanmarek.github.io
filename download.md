@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download
+title: Odkazy
 permalink: /download/
 ---
 

@@ -6,6 +6,7 @@ permalink: /about/
 
 ### Ethical Hacker,  Forensic Investigator & Cyber Security Engineer
 
+   * LinkedIn: https://www.linkedin.com/in/janmarekmcp/
    * IČO: 74974068
    * DIČ: CZ8607120819
    * Jsem plátcem DPH.

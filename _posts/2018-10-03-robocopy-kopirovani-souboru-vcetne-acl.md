@@ -17,7 +17,7 @@ tags:
 Poměrně často to na kurzech řeším a proto zde publikuji pro referenci.
 
 {% highlight console %}
-	robocopy "D:\zdroj" "E:\cíl" /R:1 /w:0 /e /purge /zb /xo /copy:DATSO /v /log+:$LogFile /tee
+robocopy "D:\zdroj" "E:\cíl" /R:1 /w:0 /e /purge /zb /xo /copy:DATSO /v /log+:$LogFile /tee
 {% endhighlight %}
 
 /R – počet opakování, pokud se soubor nepovede zkopírovat

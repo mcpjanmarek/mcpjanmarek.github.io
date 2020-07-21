@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $white;
+  color: #20a20e;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -266,7 +266,7 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 15px;
   }
 }

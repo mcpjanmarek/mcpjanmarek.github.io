@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Cyber Security Professional & Trainer
+Ethical Hacker | Forensic Investigator | Cyber Security Engineer
 
 IČO: 74974068
 
@@ -16,13 +16,12 @@ Bankovní účet: 209483007/5500
 
 IBAN: CZ3055000000000209483007
 
-Email: jan@cyber-rangers.com
-
-Tel: +420 774 657 330
-
-Microsoft P-Seller
+Email: jan(at)cyber-rangers.com
 
 ## Certifikace:
+EC-Council Certified Ethical Hacker (CEH)
+
+CompTIA Pentest+
 
 Certified EC-Council Instructor (CEI)
 

@@ -7,6 +7,5 @@ Dnešním dnem se mi seznam konferencí, kde budu přednášet o mých bezpečno
 Souběžně s přednáškami poběží i další akce, jako například CTF, workshopy a další možnosti, kde si můžete rozšířit své znalosti v oblasti cybersec.
 
 Mé téma ještě není potvrzeno, ale vy, co mě znáte, už asi tušíte o čem mohu asi tak mluvit. Těším se na všechny z vás, kteří se budete konference účastnit.
-
-Inline-style: 
+ 
 ![MAYDAY.conf](/assets/MayDayConf_logo.png "MAYDAY.conf")

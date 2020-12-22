@@ -4,8 +4,6 @@ title: Jan Marek
 permalink: /about/
 ---
 
-<a href="https://ko-fi.com/n0isegat3">Buy me a coffee! ;)</a>
-
 ### Ethical Hacker,  Forensic Investigator & Cyber Security Engineer
 
    * LinkedIn: https://www.linkedin.com/in/janmarekmcp/

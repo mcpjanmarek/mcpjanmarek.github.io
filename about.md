@@ -4,7 +4,7 @@ title: Jan Marek
 permalink: /about/
 ---
 
-### Ethical Hacker,  Forensic Investigator & Cyber Security Engineer
+### Ethical Hacker 🎓 Trainer 🏆 ATOM Chief Architect 👦 Speaker
 
    * LinkedIn: https://www.linkedin.com/in/janmarekmcp/
    * IČO: 74974068
@@ -15,6 +15,8 @@ permalink: /about/
    * Email: jan(at)cyber-rangers.com
 
 ## Certifikace:
+   * Offensive Security Certified Professional (OSCP)
+   * eLearnSecurity Certified Professional Penetration Tester (eCPPTv2)
    * EC-Council Certified Ethical Hacker (CEH)
    * CompTIA Pentest+
    * Certified EC-Council Instructor (CEI)

@@ -4,14 +4,14 @@ title: Jan Marek
 permalink: /about/
 ---
 
-### Ethical Hacker 🎓 Trainer 🏆 ATOM Chief Architect 👦 Speaker
+### Ethical Hacker 😡 Red Teamer 🎓 Trainer 👦 Speaker
 
    * LinkedIn: https://www.linkedin.com/in/janmarekmcp/
    * IČO: 74974068
    * DIČ: CZ8607120819
    * Jsem plátcem DPH.
-   * Bankovní účet: 209483007/5500
-   * IBAN: CZ3055000000000209483007
+   * Bankovní účet: 295622180/0300
+   * IBAN: CZ3003000000000295622180
    * Email: jan(at)cyber-rangers.com
 
 ## Certifikace:

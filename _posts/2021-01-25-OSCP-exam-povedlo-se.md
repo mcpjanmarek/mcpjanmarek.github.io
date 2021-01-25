@@ -18,3 +18,5 @@ V kostce ta zkouška je částečně strašně super a částečně prdelní (le
 Velké díky všem, kteří mě podpořili a hlavně své ženě, která mi umožnila věnovat svůj čas na učení se (nejen na tuto zkoušku) a celou dobu ve mě věřila a podporovala mě (a že to bylo potřeba, protože po prvním examu to bylo dost demotivující - selhat po roce učení).
 
 Ještě jedna poznámka na závěr, která se netýká jen této zkoušky - nedělej zkoušky jen pro ty zkoušky. Cílem je se něco naučit a ta zkouška by jen měla ověřit hlavně tobě, že ses to skutečně naučil a pochopil.
+
+Good luck všem, kteří tohle čtou a OSCP čeká!

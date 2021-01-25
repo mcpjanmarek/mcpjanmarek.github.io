@@ -11,7 +11,7 @@ Tento druhý pokus jsem si naplánoval na jednu odpoledne. Ani ne tak, že bych 
 
 Tím jsem měl vyhráno a protože jsem už padal na hubu, tak jsem šel spát. Asi za 6 hodin jsem vstal a šel zkusit zlomit poslední server. Našel jsem initial, ale už jsem nevěděl kudy dál a protože se to točilo kolem webů, což naprosto nesnáším, tak jsem to vzdal (asi hodinu před koncem času) a šel psát report. Asi za 4 hodiny jsem měl report hotový a kolem páté odpoledne jsem ho uploadoval na OffSec.
 
-Dostal asi 5x info, že teď budu čekat až 10 pracovních dní na výsledek. Naštěstí dnes, cca. po 24 hod. od uploadu reportu, mi přišel email, že passed.
+Dostal jsem asi 5x info, že teď budu čekat až 10 pracovních dní na výsledek. Naštěstí dnes, cca. po 24 hod. od uploadu reportu, mi přišel email, že passed.
 
 V kostce ta zkouška je částečně strašně super a částečně prdelní (lepší slovo mě nenapadá). Každopádně to byla super zkušenost a rozhodně jsem se mraky toho naučil a jsem za to moc rád.
 
